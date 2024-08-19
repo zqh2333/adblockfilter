@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GpiT9BhKtFCpe2vTZKRzEg
-! Version: 202408191151
+! Checksum: WOxJcf8rwIyBaTyAT6Sbmw
+! Version: 202408191601
 ! Title: EasyList
-! Last modified: 19 Aug 2024 11:51 UTC
+! Last modified: 19 Aug 2024 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16107,6 +16107,7 @@ audioholics.com,classy-online.jp#@#.side-ad
 ekitan.com,kissanadu.com#@#.sidebar-ad
 independent.com#@#.sidebar-ads
 cadlinecommunity.co.uk#@#.sidebar_advert
+proininews.gr#@#.small-ads
 hebdenbridge.co.uk#@#.smallads
 geekwire.com#@#.sponsor_post
 toimitilat.kauppalehti.fi#@#.sponsored-article
@@ -19740,8 +19741,10 @@ browsershots.org#@#.advert_area
 ||avkktuywj.xyz^
 ||avkyu1tesnwy.com^
 ||avloan3431.fun^
+||avmonk3431.fun^
 ||avnmjtqu.com^
 ||avobeucxscwj.com^
+||avorgy3431.fun^
 ||avouchamazeddownload.com^
 ||avowalsannop.com^
 ||avowappear.com^
@@ -29412,6 +29415,7 @@ browsershots.org#@#.advert_area
 ||gnkgvjxunmwc.com^
 ||gnkljnfbd.com^
 ||gnksplbu.com^
+||gnqsvrafjtoa.com^
 ||gnqtageoyy.com^
 ||gnssivagwelwspe.xyz^
 ||gntsrybdc.com^
@@ -29800,6 +29804,7 @@ browsershots.org#@#.advert_area
 ||gripping-bread.com^
 ||gripspigyard.com^
 ||grirault.net^
+||grislyrooing.click^
 ||gristleupanaya.com^
 ||gritaware.com^
 ||grixaghe.xyz^
@@ -32625,6 +32630,7 @@ browsershots.org#@#.advert_area
 ||jeannezenith.com^
 ||jeannvalmvwza.top^
 ||jeanspurrcleopatra.com^
+||jebhnmggi.xyz^
 ||jechusou.com^
 ||jeckear.com^
 ||jecoglegru.com^
@@ -39077,6 +39083,7 @@ browsershots.org#@#.advert_area
 ||oyoperseduca.com^
 ||oypjpbthhxhyuvq.com^
 ||oypucuqsuwabnxy.com^
+||oysterbywordwishful.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
 ||oytoworkwithcatuk.com^
@@ -39456,6 +39463,7 @@ browsershots.org#@#.advert_area
 ||payslipselderly.com^
 ||paysqueak.com^
 ||pazashevy.com^
+||pazials.xyz^
 ||pazzfun.com^
 ||pbacijttzozq.com^
 ||pbamjgga.com^
@@ -41610,6 +41618,7 @@ browsershots.org#@#.advert_area
 ||pzoynkxexnx.com^
 ||pzqfmhy.com^
 ||pzwdtz.com^
+||pzwigrnuimeh.com^
 ||q1-tdsge.com^
 ||q1mediahydraplatform.com^
 ||q2i8kd5n.de^
@@ -44888,6 +44897,7 @@ browsershots.org#@#.advert_area
 ||skytraf.xyz^
 ||slabreasonablyportions.com^
 ||slabshookwasted.com^
+||slacdn.com^
 ||slahpxqb6wto.com^
 ||slamscreechmilestone.com^
 ||slamvolcano.com^
@@ -47346,6 +47356,7 @@ browsershots.org#@#.advert_area
 ||tkaqlvqjnn.com^
 ||tkauru.xyz^
 ||tkbo.com^
+||tkeatlra.com^
 ||tkhwslqsmjwingf.com^
 ||tkidcigitrte.com^
 ||tkifahjutoj.com^
@@ -49571,6 +49582,7 @@ browsershots.org#@#.advert_area
 ||vjijvefrr.com^
 ||vjsohgd.com^
 ||vjtskjg.com^
+||vjugz.com^
 ||vjzlgtnaov.com^
 ||vkarrc.com^
 ||vkeagmfz.com^
@@ -50928,6 +50940,7 @@ browsershots.org#@#.advert_area
 ||wtfgep.xyz^
 ||wtg-ads.com^
 ||wthbjrj.com^
+||wtjsnlwmx.com^
 ||wtkfxoqolprv.com^
 ||wtmhwnv.com^
 ||wtrep.xyz^
@@ -52155,6 +52168,7 @@ browsershots.org#@#.advert_area
 ||zprelandappslab.com^
 ||zprelanding.com^
 ||zprelandings.com^
+||zprofuqkssny.com^
 ||zpvsuniqkhj.com^
 ||zqdprrzjpcf.com^
 ||zqfbsrldaeawna.com^
@@ -61817,7 +61831,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||srware.net/iron/assets/img/av/
 ||star-history.com/assets/sponsors/
 ||startpage.com/sp/adsense/
-||startpage.com/sp/cdn/*/TotalAdBlockAdultWidget.js
 ||startpage.com/sp/Tgz1k/adsense/
 ||static.fastpic.org^$subdocument
 ||static.getmodsapk.com/cloudflare/ads-images/
