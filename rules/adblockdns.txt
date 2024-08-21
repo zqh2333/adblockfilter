@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240821162739
-! Last modified: 2024/08/21 16:27:39
-! Blocked domains: 176458
+! Version: 20240822002739
+! Last modified: 2024/08/22 00:27:39
+! Blocked domains: 176480
 ! unBlocked domains: 51
 !
 ||0lx.02154812.xyz^
@@ -48011,6 +48011,7 @@
 ||earplugmolka.com^
 ||smetrics.earpros.com^
 ||earringsatisfiedsplice.com^
+||earshambitty.com^
 ||earth-ling.org^
 ||a8.earth-shiho.com^
 ||earth1ygr11n.xyz^
@@ -96668,6 +96669,7 @@
 ||app.me4u.ai^
 ||me6q8.top^
 ||me7x.site^
+||meableabede.click^
 ||meadowaerial.com^
 ||communications.meadowbrook.com^
 ||meadowdocumentcaprizecaprize.com^
@@ -131984,6 +131986,7 @@
 ||rktu.com^
 ||jiu.rktupt.cn^
 ||rkwithcatuk.org^
+||rkwxfi.xyz^
 ||rkymfevzeq.com^
 ||app.rlax.me^
 ||rldwideorgani.org^
@@ -161866,6 +161869,7 @@
 ||valtontyler.com^
 ||valuable.one^
 ||valuableenquiry.com^
+||valuatesharki.com^
 ||valuationbothertoo.com^
 ||cache1.value-domain.com^
 ||valuead.com^
@@ -170620,6 +170624,23 @@
 ||a8.worldikids.com^
 ||worldinform.ru^
 ||worldjailbreak.com^
+||coin.worldkolf.info^
+||goog.worldkolf.info^
+||kiik.worldkolf.info^
+||kik.worldkolf.info^
+||mom.worldkolf.info^
+||news.worldkolf.info^
+||non.worldkolf.info^
+||ollp.worldkolf.info^
+||ouo.worldkolf.info^
+||rur.worldkolf.info^
+||tem.worldkolf.info^
+||uou.worldkolf.info^
+||vesu.worldkolf.info^
+||vov.worldkolf.info^
+||wew.worldkolf.info^
+||xoi.worldkolf.info^
+||yuy.worldkolf.info^
 ||share.worldleaguelive.com^
 ||worldlever.com^
 ||info.worldlink-us.com^
@@ -174210,6 +174231,7 @@
 ||yterxv.com^
 ||ytezym.xyz^
 ||ytflix.club^
+||ytghtq.xyz^
 ||ytgzz.com^
 ||ythingy.com^
 ||ythjhk.com^
