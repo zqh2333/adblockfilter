@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240822002739
-! Last modified: 2024/08/22 00:27:39
-! Blocked domains: 176480
+! Version: 20240822090746
+! Last modified: 2024/08/22 09:07:46
+! Blocked domains: 176507
 ! unBlocked domains: 51
 !
 ||0lx.02154812.xyz^
@@ -2050,6 +2050,7 @@
 ||45eijvhgj2.com^
 ||4602306b.xyz^
 ||461vd.com^
+||46276192.xyz^
 ||www.4630001.com^
 ||a8cv.464981.com^
 ||4690y10pvpq8.com^
@@ -11569,6 +11570,7 @@
 ||antiadblock.info^
 ||antiadblocksystems.com^
 ||a.antiadxxxspy.com^
+||antiaecroon.com^
 ||antiagingbiocream.com^
 ||antiblinked.com^
 ||antiblock.info^
@@ -14092,7 +14094,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsis.com^
 ||static.ws.apsis.one^
@@ -18701,6 +18703,7 @@
 ||beakobjectcaliber.com^
 ||beambroth.com^
 ||beamedshipwreck.com^
+||beamierwaisted.com^
 ||a8cv.beaming.jp^
 ||beampulse.com^
 ||qzxfnv.beams.co.jp^
@@ -28497,6 +28500,7 @@
 ||camplethora.com^
 ||campobet.com^
 ||camprime.com^
+||camptwined.com^
 ||marketing.campusadv.com^
 ||campusexcessively.com^
 ||campusinsanity.com^
@@ -58133,6 +58137,7 @@
 ||analytics.floridatravellife.com^
 ||floridavacationrentalsbyowners.com^
 ||fl.floriittee.com^
+||analytics.floris.amsterdam^
 ||floristerialuna.com^
 ||floristgathering.com^
 ||floristxl.com^
@@ -58461,6 +58466,7 @@
 ||foamgaza.com^
 ||foamtek.ca^
 ||foapsovi.net^
+||foasowut.xyz^
 ||focalex.com^
 ||ad01.focalink.com^
 ||ad02.focalink.com^
@@ -63439,6 +63445,7 @@
 ||ggbetpromo.com^
 ||ggbets.pl^
 ||ggbetss.com^
+||ggchallengemode.world^
 ||ggcorp.me^
 ||ggdab.co^
 ||ggdumze.cn^
@@ -69526,6 +69533,7 @@
 ||track.hiddenrewardz.com^
 ||rt.hiddensecret.online^
 ||hiddenseet.com^
+||suchanalytik.hideandsec.sh^
 ||hideaway.com^
 ||hidebux.com^
 ||hideftravel.com^
@@ -84305,6 +84313,7 @@
 ||karresults-nic-in.in^
 ||data-421b67c653.karriereregion.de^
 ||cfrnyp.kars4kids.org^
+||karstsnill.com^
 ||kartavisa.pl^
 ||b.karte.io^
 ||cf-native.karte.io^
@@ -84855,6 +84864,7 @@
 ||keotot.net^
 ||solutions.kep-technologies.com^
 ||kepersaonwho.org^
+||kepnatick.com^
 ||go.kepner-tregoe.com^
 ||images.portal.keppelelectric.com^
 ||keppet.com^
@@ -85108,6 +85118,7 @@
 ||kgsounds.info^
 ||pageview.kgsz.cn^
 ||mail.kguapp.com^
+||kgubus.xyz^
 ||kgvfjtdf.top^
 ||metrics.kgw.com^
 ||srepdata.kgw.com^
@@ -92893,6 +92904,7 @@
 ||lucastadvertising.com^
 ||lucatee.com^
 ||lucchesedeal.store^
+||lucchesesale.shop^
 ||prebid.lucead.com^
 ||rt.lucendi.ph^
 ||lucentfreer.com^
@@ -99393,6 +99405,7 @@
 ||mishvelasco.com^
 ||partner.misinacokolada.cz^
 ||misjgy.xyz^
+||miskalsbending.com^
 ||miskenish.com^
 ||misknown.com^
 ||miskoru.com^
@@ -105038,6 +105051,7 @@
 ||nanigans.com^
 ||nanimaly-shop.myshopify.com^
 ||nanisp.com^
+||nanistores.com^
 ||nannieslamaic.com^
 ||nannyamplify.com^
 ||nanoadexchange.com^
@@ -105605,6 +105619,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi43.ru^
 ||navi444.com^
 ||navi45.ru^
@@ -109243,6 +109258,7 @@
 ||beaconin2.notinote.me^
 ||pig.notion.chat^
 ||analytics.pgncs.notion.so^
+||exp.notion.so^
 ||notionfoggy.com^
 ||notionsshrivelcustomer.com^
 ||notionstayed.com^
@@ -110476,6 +110492,7 @@
 ||obedientapologyinefficient.com^
 ||obejrz.pl^
 ||obejrzmyvideo.click^
+||obelionkiter.click^
 ||trk.oberdorferpumps.com^
 ||data-39822b659f.oberhessische-zeitung.de^
 ||data-a01a8a1ba4.oberhessische-zeitung.de^
@@ -127393,6 +127410,7 @@
 ||pwddhc.xyz^
 ||pweabzcatoh.com^
 ||pwfb7w87ov.ru^
+||pwfqjp.xyz^
 ||pwhkfd.xyz^
 ||pwieu.com^
 ||pwinx.com^
@@ -129489,6 +129507,7 @@
 ||ppo.re9t-hmd0.com^
 ||rea-love.net^
 ||reabitheconti.com^
+||reacdf311.cn^
 ||reachableads.com^
 ||api.reachads.com^
 ||reachadv.it^
@@ -135140,6 +135159,7 @@
 ||somniture.scotiabank.com^
 ||somniture.scotiabank.mobi^
 ||scotiahelp-loginscotia.com^
+||scotiaonline-verification.com^
 ||ads.scott-sports.com^
 ||links.banking.scottishwidows.co.uk^
 ||info.scottmadden.com^
@@ -140097,6 +140117,7 @@
 ||smilingswim.com^
 ||smilingwaves.com^
 ||smilitygorb.club^
+||cpx.smind.si^
 ||sminewsnet.ru^
 ||tt.smirkydiff.com^
 ||smiru.ru^
@@ -147915,6 +147936,7 @@
 ||g.tbcdn.cn^
 ||tberjonk.com^
 ||tbex.ru^
+||tbg-lmtd.xyz^
 ||trk.tbivision.com^
 ||tbk-app.com^
 ||tbk.tm^
@@ -157107,6 +157129,7 @@
 ||tuffxhelp.xyz^
 ||tuffxion.top^
 ||lp.services.tuftsmedicine.org^
+||tufzdj.xyz^
 ||tugonoyoi.com^
 ||lidol.tugrik.xyz^
 ||otolid.tugrik.xyz^
@@ -157338,6 +157361,7 @@
 ||sadbmetrics.turium.es^
 ||turizmkoleji.com^
 ||ruvdkw.turk.net^
+||analytics.turk.pro^
 ||omni.turkcell.com.tr^
 ||signals.turkcell.com.tr^
 ||somni.turkcell.com.tr^
@@ -159095,6 +159119,7 @@
 ||underpayments.life^
 ||underpointesver.com^
 ||moth.underscoretw.com^
+||undersite.pages.dev^
 ||understandableglassfinalize.com^
 ||understandablejeopardy.com^
 ||understandassure.com^
@@ -167126,6 +167151,7 @@
 ||we360.com.br^
 ||m1.we556.com^
 ||we5v4cajf.top^
+||weacdf211.cn^
 ||weaerbo.com^
 ||weagehn.icu^
 ||weakcompromise.com^
@@ -171051,6 +171077,7 @@
 ||partner.wugi.cz^
 ||provize.wugi.cz^
 ||wuidtethhkcko.com^
+||wujungexo.net^
 ||wukbgater.buzz^
 ||wuksaiho.net^
 ||wulkanvegas.org^
