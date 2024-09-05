@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240905162818
-! Last modified: 2024/09/05 16:28:18
-! Blocked domains: 183337
+! Version: 20240906002731
+! Last modified: 2024/09/06 00:27:31
+! Blocked domains: 183368
 ! unBlocked domains: 51
 !
 ||0551huayanbdf.com^
@@ -1457,7 +1457,7 @@
 ||audit.303br.net^
 ||303marketplace.com^
 ||307.cc^
-||5109c939a4.307ea19306.com^
+||307ea19306.com^
 ||307i6i7do.de^
 ||30937261.xyz^
 ||30986g8ab.de^
@@ -2851,6 +2851,7 @@
 ||751685e7fa.com^
 ||rezerwacjalokal-dpd.751796502.com^
 ||www.7540.com^
+||75690049.xyz^
 ||7577.cc^
 ||tracker.758skd.com^
 ||75h4x7992.com^
@@ -3118,6 +3119,7 @@
 ||82vnd.com^
 ||82zcb.icu^
 ||www.83692.com^
+||83887336.xyz^
 ||839944c715.com^
 ||83net.jp^
 ||f0dcadf8bc.840c20b1c0.com^
@@ -12646,6 +12648,7 @@
 ||anemochore.info^
 ||anemoneadmire.xyz^
 ||anemonkaga.top^
+||anentsyshrug.com^
 ||anephangja.com^
 ||anepszava.com^
 ||kswatkowski.anetanatasza.pl^
@@ -17322,6 +17325,7 @@
 ||publi.atresmediapublicidad.com^
 ||smetrics.atresplayer.com^
 ||atrewards-h5.space^
+||atriahatband.com^
 ||atriblethetch.com^
 ||engage.atriosystems.com^
 ||atrium-konie.pl^
@@ -27479,6 +27483,7 @@
 ||bnuni.com^
 ||bnvtogowfll.com^
 ||bnvxcfhdgf.blogspot.com.es^
+||bnwmyguuzvk.com^
 ||bny9.cn^
 ||metrics.bnymellon.com^
 ||smetrics.bnymellon.com^
@@ -32164,6 +32169,7 @@
 ||www.capturedcovers.com^
 ||tracking.capturedtechnologies.com^
 ||captureleaderdigestion.com^
+||capturescaldsomewhat.com^
 ||cdn.capturly.com^
 ||collector.capturly.com^
 ||capwilyunseen.com^
@@ -32176,6 +32182,7 @@
 ||cara-consulting-llc.com^
 ||cara-daftar-ibcbet.com^
 ||caraci.it^
+||carackirish.shop^
 ||smetrics.caracol.com.co^
 ||metrics.caracoltv.com^
 ||ressources.caradisiac.com^
@@ -34028,6 +34035,7 @@
 ||ceruleanblue.life^
 ||cervell.io^
 ||private.cervicalcancer-risk.com^
+||ceryldelaine.com^
 ||ces2007.org^
 ||ceschemicalcovenings.info^
 ||www.ceseasons.com^
@@ -45842,6 +45850,7 @@
 ||ladybug.dfour.space^
 ||dfprljx.xyz^
 ||partner.dfprsteny.cz^
+||dfptcslvqbn.com^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfryzh.xyz^
 ||api-exp.dfs.uk^
@@ -47512,6 +47521,7 @@
 ||www.djkeun1bal.com^
 ||lslmetrics.djlmgdigital.com^
 ||djm080u34wfc5.cloudfront.net^
+||djmqwdcwebstaxn.com^
 ||djnaivalj34ub.cloudfront.net^
 ||djnf6e5yyirys.cloudfront.net^
 ||omni.djoglobal.com^
@@ -54879,6 +54889,7 @@
 ||esaidees.com^
 ||esamochod.pl^
 ||esanindustrialfair.com^
+||esasaimpi.net^
 ||esashop.pl^
 ||esathyasesume.info^
 ||www.esautodealer.com^
@@ -54995,6 +55006,7 @@
 ||esla.space^
 ||eslenglish-hk.com^
 ||esliarteaga.com^
+||eslisorchenet.click^
 ||eslnd.click^
 ||idgptg.esm-computer.de^
 ||esm1.net^
@@ -57632,6 +57644,7 @@
 ||fa88.tv^
 ||fa88.win^
 ||fa88vn.live^
+||faabaytsrygcbvs.com^
 ||faagilyur.site^
 ||faaglossary.com^
 ||faaqgje.icu^
@@ -58684,6 +58697,7 @@
 ||fbd.de^
 ||fbdownloader.com^
 ||fbet.com^
+||fbfedemjbpungf.com^
 ||fbffdfproxwqi.com^
 ||fbforce.net^
 ||fbfrbt.xyz^
@@ -62118,6 +62132,7 @@
 ||forerekov.xyz^
 ||foresdev.com^
 ||foresee.com^
+||foreseebobbers.com^
 ||foreseegigglepartially.com^
 ||foreseeresults.com^
 ||foreshowin.com^
@@ -65666,6 +65681,7 @@
 ||a.gedidigital.it^
 ||gediel.com^
 ||gedprefeituraimbituva.com.br^
+||gedxssashb8.fun^
 ||gee5g.xyz^
 ||a8clk.cv.geechs-job.com^
 ||ac.geechs-job.com^
@@ -71477,6 +71493,7 @@
 ||tj.haiwainet.cn^
 ||haixiawuliu.com^
 ||haixiutv.com^
+||haixomz.xyz^
 ||haizhangs.com^
 ||hajilijnemo.com^
 ||trc.hajime-asset.com^
@@ -75551,6 +75568,7 @@
 ||hotbignews.com^
 ||hotblognetwork.com^
 ||hotboys.biz^
+||hotbqzlchps.com^
 ||hotbreakingnews.shop^
 ||hotbuckers.com^
 ||hotbul.com^
@@ -78822,6 +78840,7 @@
 ||imwxsu.xyz^
 ||www.imxprs.com^
 ||imxsvpxe.xyz^
+||imyanmarads.com^
 ||imzahrwl.xyz^
 ||imzansi.co.za^
 ||in-appadvertising.com^
@@ -79729,6 +79748,7 @@
 ||injectentreat.com^
 ||injectlocum.com^
 ||injectreunionshorter.com^
+||injectshrslinkblog.com^
 ||ads.injersey.com^
 ||gcirm.injersey.com^
 ||injkgasf.com^
@@ -89112,6 +89132,7 @@
 ||pixel.kknews.cc^
 ||stat.kkpp.cz^
 ||kkqcnrk.com^
+||c.kkraw.com^
 ||kkuabdkharhi.com^
 ||kkualfvtaot.com^
 ||kkuztcsx.com^
@@ -128366,6 +128387,7 @@
 ||applink.psychonline.com^
 ||psychotherapyca.com^
 ||psygenictech.com^
+||psykterfaulter.com^
 ||psylist.net^
 ||psylocybinsweet.com^
 ||scripts.psyma.com^
@@ -131857,6 +131879,7 @@
 ||qrmozsc.icu^
 ||qrovwu.xyz^
 ||qrprobopassor.com^
+||qrredraws.com^
 ||qrsg11.com^
 ||qrstes.com^
 ||qrtfx.com^
@@ -133777,6 +133800,7 @@
 ||rebrandsoftware.com^
 ||rebrew-foofteen.com^
 ||rebsoapo.com^
+||rebukessedgier.shop^
 ||app.info.recall.com^
 ||recalledmesnarl.com^
 ||recalledriddle.com^
@@ -135854,6 +135878,7 @@
 ||rhombusads.com^
 ||dnfluw.rhone.com^
 ||rhouseoyopers.info^
+||rhrim.com^
 ||rhsemrodeios.com^
 ||rhsorga.com^
 ||rhsrthrtjhe.com^
@@ -139863,6 +139888,7 @@
 ||sauni-moskva.ru^
 ||sauptoacoa.com^
 ||sauptowhy.com^
+||saurfeued.com^
 ||saurodaz.website^
 ||sausagegirlieheartburn.com^
 ||sausterem.com^
@@ -160846,6 +160872,7 @@
 ||trackconsole.com^
 ||trackcttpt-pt.com^
 ||track.trackdashboardapi.com^
+||trackdesk.com^
 ||www.trackdhlexpress.com^
 ||trackdiscovery.net^
 ||trackduck.com^
@@ -175963,6 +175990,7 @@
 ||withinresentful.com^
 ||yak.withlindy.com^
 ||withmefeyaukna.com^
+||withnimmunger.com^
 ||withoutcontrol.com^
 ||vy.withsaynapa.com^
 ||withsecurify.com^
@@ -177560,6 +177588,7 @@
 ||wxhiojortldjyegtkx.bid^
 ||v066.wxii12.com^
 ||wxmicgwfzqekj.com^
+||wxmmji.xyz^
 ||www1.wxnmh.com^
 ||wxseedslpi.com^
 ||wxsicu.xyz^
@@ -181035,6 +181064,7 @@
 ||a8cv.yui.gift^
 ||yuibo.com^
 ||yuilop.com^
+||yuintbradshed.com^
 ||yuio87.wixsite.com^
 ||vinted.yuiydz.shop^
 ||www.vinted.yuiydz.shop^
@@ -183335,6 +183365,7 @@
 ||zztxfj.xyz^
 ||zzux.com^
 ||track.msadcenter.zzv.com^
+||zzwuouqz.com^
 ||zzxbn.com^
 ||zzxjlr.com^
 ||zzxlhwyp.com^
