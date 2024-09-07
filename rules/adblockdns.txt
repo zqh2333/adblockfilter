@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240907162602
-! Last modified: 2024/09/07 16:26:02
-! Blocked domains: 180731
+! Version: 20240908002514
+! Last modified: 2024/09/08 00:25:14
+! Blocked domains: 180734
 ! unBlocked domains: 51
 !
 ||0551huayanbdf.com^
@@ -5232,6 +5232,7 @@
 ||rt.acdn4you.com^
 ||acdnpro.com^
 ||acdid.acdsystems.com^
+||ace-adserver.com^
 ||ajljei.ace.jp^
 ||ace333thailand.com^
 ||aceadsys.net^
@@ -16083,7 +16084,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -38050,7 +38051,6 @@
 ||news.coloradobiz.com^
 ||coloradodawn.com^
 ||coloradodiscountgolf.com^
-||colorandcotton.com^
 ||ctr.colorbrightpin.com^
 ||colorcrazehai.xyz^
 ||track.coloredcaramel.co^
@@ -45247,6 +45247,7 @@
 ||decollhuaca.com^
 ||decompify.com^
 ||decomposedismantle.com^
+||decompraschile.com^
 ||tracker.decomworld.com^
 ||tms.decopactech.com^
 ||www.decorama.arq.br^
@@ -47197,6 +47198,7 @@
 ||dielottozahlende.net^
 ||dienai.ru^
 ||diench.com^
+||diendh.xyz^
 ||marketing.dienerlaw.net^
 ||data-f00aa2a607.dienews.net^
 ||data-da8b646558.dieniederoesterreicherin.at^
@@ -50525,6 +50527,7 @@
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dsaewew21.fun^
 ||dsail-tech.com^
 ||trace21.dsb-ebusiness.com^
 ||dsb6jelx4yhln.cloudfront.net^
@@ -63846,7 +63849,6 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -75673,6 +75675,7 @@
 ||icyreprimandlined.com^
 ||icyyapemu.com^
 ||vinted-be.id-68621.com^
+||com.id-7144893.com^
 ||id-icloud.com^
 ||id-visitors.com^
 ||id-ward.com^
