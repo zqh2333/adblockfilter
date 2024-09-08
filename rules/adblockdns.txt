@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240908002514
-! Last modified: 2024/09/08 00:25:14
-! Blocked domains: 180734
+! Version: 20240908091353
+! Last modified: 2024/09/08 09:13:53
+! Blocked domains: 180737
 ! unBlocked domains: 51
 !
 ||0551huayanbdf.com^
@@ -3528,6 +3528,7 @@
 ||884ae888.com^
 ||allegro.88513.shop^
 ||www.885420.com^
+||88545539.xyz^
 ||885ae888.com^
 ||8861198.com^
 ||8861202.com^
@@ -50526,6 +50527,7 @@
 ||ds68dfnl43.online^
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
+||dsad234.fun^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsaewew21.fun^
 ||dsail-tech.com^
@@ -103057,6 +103059,7 @@
 ||bpeml.mlb.com^
 ||email.account-mail.mlb.com^
 ||email.tickets.mlb.com^
+||mlcbgw.xyz^
 ||mlclick.com^
 ||mlegyu.xyz^
 ||go.mlexmarketinsight.com^
