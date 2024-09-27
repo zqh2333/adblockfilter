@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240927163157
-! Last modified: 2024/09/27 16:31:57
-! Blocked domains: 116391
+! Version: 20240928003041
+! Last modified: 2024/09/28 00:30:41
+! Blocked domains: 116411
 ! unBlocked domains: 48
 !
 ||052db.website^
@@ -1520,6 +1520,7 @@
 ||imp-toutiao-data.37.com.cn^
 ||3743e0aeab.com^
 ||tracker.374nnahs.com^
+||ana.3751chat.com^
 ||alegorlokalnie.375421.xyz^
 ||376672.cc^
 ||377bet.com^
@@ -16003,6 +16004,7 @@
 ||bhohazozps.com^
 ||st1.bhol.co.il^
 ||bhotiyadiascia.com^
+||bhqvi.com^
 ||bhrl-pos.ink^
 ||bhs4.com^
 ||r.bhsaccessories.com^
@@ -31038,6 +31040,7 @@
 ||agcdn.divcom.com^
 ||divedresign.com^
 ||divekcl7q9fxi.cloudfront.net^
+||diverhaul.com^
 ||marketing.diverseco.com.au^
 ||responses.diverseeducation.com^
 ||p.diversityjobs.com^
@@ -31110,6 +31113,7 @@
 ||dk803.com^
 ||dkagiqnjsdoqli.com^
 ||dkap.com^
+||dkasdeerw.xyz^
 ||dkbet8casino.com^
 ||dkbet999.com^
 ||ads.dkelseymedia.com^
@@ -33180,6 +33184,7 @@
 ||e8e2063b.xyz^
 ||e953py.top^
 ||e99877e518.com^
+||e9d13e3e01.com^
 ||e9gon879e6.pages.dev^
 ||mangler3.generals.ea.com^
 ||js.ea3w.com^
@@ -35240,6 +35245,7 @@
 ||wnvieu.enpal.de^
 ||enquisite.com^
 ||enquoted.com^
+||enqvcaugnkxmx.com^
 ||enrageeyesnoop.com^
 ||mailer.enrichmentjourneys.com^
 ||oficial.enriquecendoonline.com^
@@ -43268,6 +43274,7 @@
 ||ggem.net^
 ||ggetech.us^
 ||ggetsurv4youu.com^
+||ggfdgd88.fun^
 ||gggtrenks.com^
 ||gghhe.com^
 ||ggjkxauilw.xyz^
@@ -43685,6 +43692,7 @@
 ||glideimpulseregulate.com^
 ||glidershine.xyz^
 ||glidesparks.com^
+||glifjhcclyc.com^
 ||glimpsedrastic.com^
 ||glimpsemankind.com^
 ||glimpses.top^
@@ -51076,6 +51084,7 @@
 ||eml.iiconferences.com^
 ||deliver.ads2.iid.jp^
 ||deliver.ads3.iid.jp^
+||recruitbox.media.iid.jp^
 ||iidfxj.com^
 ||iifvcfwiqi.com^
 ||iigmlx.com^
@@ -51112,6 +51121,7 @@
 ||ijkcmm.com^
 ||ijksec.xyz^
 ||ijmxco.xyz^
+||ijobloemotherofh.com^
 ||pay.amzon-bills.ijsidw.com^
 ||mail.ijungomail.com^
 ||mail2.ijungomail.com^
@@ -63372,6 +63382,7 @@
 ||www.luttrading.ir^
 ||luuming.com^
 ||luvieessentials.com^
+||ana.luvul.net^
 ||luvyhomeplus.com^
 ||luwsebstwpc.com^
 ||lux-bn.com.ua^
@@ -63590,6 +63601,7 @@
 ||lznfuab.xyz^
 ||lzrikate.com^
 ||lzthjd.cn^
+||lzukrobrykk.com^
 ||lzupkz.com^
 ||lzxdx24yib.com^
 ||m-barati.de^
@@ -66448,6 +66460,7 @@
 ||go.middleburyinteractive.com^
 ||middlepoint.co.kr^
 ||midgetdeliveringsmartly.com^
+||proxima.midjourney.com^
 ||midmonthjaler.life^
 ||midnight.im^
 ||midnightinparisonwheels.com^
@@ -83045,6 +83058,7 @@
 ||puhtml.com^
 ||puhufuuzei.live^
 ||pukaczu.pl^
+||pukimuki.xyz^
 ||pulaskitimes.com^
 ||pulfa.com^
 ||pulinkme.com^
@@ -84458,6 +84472,7 @@
 ||radiatorcrate.com^
 ||radicaebsl.monster^
 ||radicalovertime.com^
+||radicalpackage.com^
 ||radielenge.pro^
 ||log.radiko.jp^
 ||data-4f77096dc0.radio-brocken.com^
@@ -85740,6 +85755,7 @@
 ||rentfromart.com^
 ||rentingimmoderatereflecting.com^
 ||rentlybuzz.com^
+||rentlysearchingf.com^
 ||email.rentomojomailer.com^
 ||reolinkglobal.com^
 ||reonews.pl^
@@ -90149,6 +90165,7 @@
 ||shallowc.sbs^
 ||ad2.shallwead.com^
 ||shalomhousebnb.com^
+||ana.chat.shalove.net^
 ||shalseey.com^
 ||poczta-polska.shamanismensvej.dk^
 ||shamcisale.xyz^
@@ -91767,6 +91784,7 @@
 ||skype-com.cn^
 ||skype-online0345.web.app^
 ||skypefr.com^
+||ana.skypemeet.net^
 ||skypersystems.ca^
 ||skypersystems.com.pk^
 ||loglady.skypicker.com^
@@ -104435,6 +104453,7 @@
 ||umpedshumal.com^
 ||pages.contact.umpquabank.com^
 ||trk.contact.umpquabank.com^
+||umqmxawxnrcp.com^
 ||fv7fps0jsfezekvp.umso.co^
 ||t09x3ww33fchbqzl.umso.co^
 ||umstat.com^
@@ -113575,6 +113594,7 @@
 ||xpj23.net^
 ||xpj3.net^
 ||xpkxahje.xyz^
+||cdn.xpln.tech^
 ||xploitz.net^
 ||xplosion.de^
 ||xpollo.com^
