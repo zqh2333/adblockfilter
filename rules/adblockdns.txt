@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241004163038
-! Last modified: 2024/10/04 16:30:38
-! Blocked domains: 168628
+! Version: 20241005002953
+! Last modified: 2024/10/05 00:29:53
+! Blocked domains: 168642
 ! unBlocked domains: 51
 !
 ||052db.website^
@@ -16414,6 +16414,7 @@
 ||webtracker.apicasystem.com^
 ||apicit.net^
 ||apicloud.ru^
+||www.apicsaba.xyz^
 ||apiculirackman.top^
 ||apidata.info^
 ||apiecelee.com^
@@ -21913,6 +21914,7 @@
 ||bedvbvb.com^
 ||bedwhimpershindig.com^
 ||yxsdgi.bedworld.net^
+||bedzbu.xyz^
 ||bedziedzialanietak.lol^
 ||bedziepasjaczas.autos^
 ||bedzietworczoscu.homes^
@@ -33804,6 +33806,7 @@
 ||rd.chuitian.cn^
 ||a8clk.chuko-truck.com^
 ||chulhawakened.com^
+||chullocaviars.shop^
 ||chullohagrode.com^
 ||chultoux.com^
 ||chumsaft.com^
@@ -40158,6 +40161,7 @@
 ||d2pozfvrp52dk4.cloudfront.net^
 ||d2rd7z2m36o6ty.cloudfront.net^
 ||d2sj2q93t0dtyb.cloudfront.net^
+||d2tf0.icu^
 ||d2tycn7nnoiglw.cloudfront.net^
 ||d2u4fn5ca4m3v6.cloudfront.net^
 ||d2uaktjl22qvg4.cloudfront.net^
@@ -44949,6 +44953,7 @@
 ||donaldvogel.com^
 ||donalise.com^
 ||ad.donanimhaber.com^
+||donarycrips.com^
 ||wv.donarynahane.com^
 ||donasdonegociosicredi.com.br^
 ||visit.donateblood.com.au^
@@ -64011,6 +64016,7 @@
 ||hauntingfannyblades.com^
 ||hauntingwantingoblige.com^
 ||media.hauptbruch.de^
+||hauqou.top^
 ||haus-pesjak.at^
 ||wqfflc.hausgarten.net^
 ||app.hauskey.com^
@@ -80363,6 +80369,7 @@
 ||cuddle.koi-ba-na.com^
 ||koi-chat.net^
 ||koi2ru.com^
+||koiaripolymny.com^
 ||koifull.jp^
 ||koiluck.com^
 ||fcrcwf.koimooi.com^
@@ -95592,6 +95599,7 @@
 ||muleur.top^
 ||link.mulliegolf.com^
 ||a.muloqot.uz^
+||mulsouloobsaiz.xyz^
 ||go.multi-conveyor.com^
 ||multi-feeds.com^
 ||multi-walletconnect.com^
@@ -120998,6 +121006,7 @@
 ||www.qqqmy.com^
 ||qqqqbdma.com^
 ||qqqwes.com^
+||qqryt111.fun^
 ||qqs13.info^
 ||qqtogel88.com^
 ||qqurzfi.com^
@@ -132349,6 +132358,7 @@
 ||sjbdue-dec.top^
 ||sjcxxm.net^
 ||sjevsolutions.com^
+||sjezce.xyz^
 ||analytics.sjf.se^
 ||sjgsgy.xyz^
 ||sjkzeivw.com^
@@ -133694,6 +133704,7 @@
 ||snapjiogaming.com^
 ||a8.snapmaker.jp^
 ||snapmoonlightfrog.com^
+||errortracking.snapp.site^
 ||sensors.snappea.com^
 ||snappedanticipation.com^
 ||snappedtesting.com^
@@ -135329,6 +135340,7 @@
 ||speedilycartrigeglove.com^
 ||speedilyeuropeanshake.com^
 ||speedingbroadcastingportent.com^
+||2.speedknow.co^
 ||speedkredyt.pl^
 ||track.speedlinesp.com^
 ||adv.speednet.bg^
@@ -150097,6 +150109,7 @@
 ||twtheef.com^
 ||twttr.com^
 ||a1.twtym.com^
+||twurseri.top^
 ||twyn.com^
 ||twyvergongs.com^
 ||tb.code.twyxi.com^
@@ -162326,6 +162339,7 @@
 ||wondoads.de^
 ||info.wondoor.com^
 ||wondroustaj.com^
+||woneguess.click^
 ||wonfigfig.com^
 ||wongahmalta.com^
 ||scribe.wongnai.com^
