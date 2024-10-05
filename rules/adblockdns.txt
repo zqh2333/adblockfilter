@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241005002953
-! Last modified: 2024/10/05 00:29:53
-! Blocked domains: 168642
+! Version: 20241005091409
+! Last modified: 2024/10/05 09:14:09
+! Blocked domains: 168653
 ! unBlocked domains: 51
 !
 ||052db.website^
@@ -341,6 +341,7 @@
 ||statistics.11880.com^
 ||118crops.com^
 ||118kbet.com^
+||1192349565.rsc.cdn77.org^
 ||bbb32b6dd7.119d54cc74.com^
 ||11a6670e45.com^
 ||ywrcqa.11alive.com^
@@ -575,12 +576,14 @@
 ||dhl.135320.com^
 ||1360.cn^
 ||137kfj65k.de^
+||1380804958.rsc.cdn77.org^
 ||138lm.com^
 ||138xt.com^
 ||lyapi.1391.com^
 ||mhdufile.1391.com^
 ||mhjk.1391.com^
 ||13bt.info^
+||13c4491879.com^
 ||b0bee72a02.13e153630d.com^
 ||563639804d.13e63e2dea.com^
 ||13kbs.com^
@@ -3005,6 +3008,7 @@
 ||oolx.59484015.xyz^
 ||595image.com^
 ||595tuchuang.com^
+||59644010.xyz^
 ||59betorspin.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
@@ -3624,6 +3628,7 @@
 ||78win04.com^
 ||78win07.com^
 ||78win09.com^
+||79180284.xyz^
 ||gg.7976.top^
 ||allegro1-okalnie9.798000.xyz^
 ||6fb11f4b6e.7981d0e1b2.com^
@@ -5279,6 +5284,7 @@
 ||abs-static.org^
 ||say.abs.beauty^
 ||thay.abs.beauty^
+||absalomcsa.com^
 ||abscakez.com^
 ||data-11c63b1cbc.abschied-nehmen.de^
 ||discover.absciex.com^
@@ -9854,6 +9860,7 @@
 ||agritech-utilajeagricole.ro^
 ||al.agriz.net^
 ||tk.agrizone.net^
+||agrmufot.com^
 ||agro-factory2.eu^
 ||agro-gid.com^
 ||agro.net.ru^
@@ -24528,7 +24535,6 @@
 ||binomo1.com^
 ||binomo2022.net^
 ||binomoidr.com^
-||binomorupiah-id.com^
 ||binomorush.in^
 ||binomotop.com^
 ||binomoweb.org^
@@ -33644,6 +33650,7 @@
 ||vkbvny.chookjenews.kr^
 ||a8.choomia.com^
 ||choomsiesurvey.top^
+||chooncv.icu^
 ||choongou.com^
 ||choosegiftel.top^
 ||chooseimmersed.com^
@@ -46695,6 +46702,7 @@
 ||go.eapps.com^
 ||eapsgsev.help^
 ||eaptekaplus.ru^
+||eaqgsw.xyz^
 ||eaqlos.xyz^
 ||ear1hb1und.xyz^
 ||ear1hetern1al.xyz^
@@ -52720,7 +52728,6 @@
 ||fashion-tube.be^
 ||adsrv.fashion.bg^
 ||trk.fashion365.com^
-||fashionadid.com^
 ||wm8bcqvd3tgn9vhv23d2sa9u.fashionarid.com^
 ||gaafbi.fashiondays.hu^
 ||nltihf.fashiondays.ro^
@@ -57530,6 +57537,7 @@
 ||gadspmz.com^
 ||track.gadteks.com^
 ||gaelsdaniele.website^
+||gaetojnxujn.com^
 ||gafsolutions.com^
 ||gafuner.space^
 ||gagdungeon.com^
@@ -62934,6 +62942,7 @@
 ||usoa.gxldskcu.top^
 ||gxlsjt.com^
 ||gxmlkgraj.com^
+||gxnfz.com^
 ||gxordgtvjr.com^
 ||gxpvnveyqowm.com^
 ||ll.gxsky.com^
@@ -89589,6 +89598,7 @@
 ||mbet.co.za^
 ||mbfhwag.xyz^
 ||ad.sp.mbga.jp^
+||mbhhxqkr.com^
 ||bid.mbidtg.com^
 ||mbih.top^
 ||mbiifzdvhexj.com^
@@ -95906,9 +95916,11 @@
 ||mvc07.top^
 ||usvw.mvcfngxu.top^
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
+||mvcngm.xyz^
 ||mdws.mvcu.ca^
 ||mvevgi.xyz^
 ||datadog-service.mvfglobal.com^
+||mvfmdfsvoq.com^
 ||mvhiyha.com^
 ||panda.mvhphotoproject.org^
 ||mvilivestats.com^
@@ -97977,6 +97989,7 @@
 ||navyfederai.org^
 ||analytics.navyfederal.org^
 ||email.msg.navyfederal.org^
+||img2021.navyfederal.org^
 ||app.navyhealth.com.au^
 ||app-uat.navyhealth.com.au^
 ||t.navysports.com^
@@ -101728,6 +101741,7 @@
 ||ntoftheusysianedt.info^
 ||ntoftheusysih.info^
 ||banner.ntop.tv^
+||ntpnfyga.icu^
 ||ntrtifx.xyz^
 ||www.ntsearch.com^
 ||ntsiwoulukdli.org^
@@ -104280,7 +104294,6 @@
 ||online.sh.cn^
 ||online143.com^
 ||vlnted-gb.online6424.info^
-||onlineadid.com^
 ||dailydeals.onlineathens.com^
 ||onlinebalances.com^
 ||onlinelearning23.onlinebangla24.com^
@@ -106697,6 +106710,7 @@
 ||pakabamino.com^
 ||www.pakalertpress.com^
 ||pakasinfo.com^
+||pakaujf.icu^
 ||pakbanners.com^
 ||pakchaos.com^
 ||pakcircles.com^
@@ -109204,7 +109218,6 @@
 ||pictorialtraverse.com^
 ||picturecorrespond.com^
 ||go.picturemarketing.com^
-||pictureoutdoor.com^
 ||picturestash.mom^
 ||pictureturn.com^
 ||picupeebau.info^
@@ -114222,6 +114235,7 @@
 ||prtadf.xyz^
 ||prtawe.com^
 ||www.prtc.net^
+||prtfpl.xyz^
 ||prtord.com^
 ||prtracker.com^
 ||prtrackings.com^
@@ -133811,7 +133825,6 @@
 ||hvteqk.snowleader.com^
 ||snowmentor.com^
 ||snowplow.io^
-||snowroxy.com^
 ||snowsignal.com^
 ||snowyescape.live^
 ||tr.info.snpden.net^
@@ -134651,7 +134664,6 @@
 ||sordimtaulee.com^
 ||sore-candle-comic.glitch.me^
 ||sore-mature-bubble.glitch.me^
-||soreldiscount.com^
 ||soremetropolitan.com^
 ||soresidewalk.com^
 ||soresneeze.com^
@@ -137382,7 +137394,6 @@
 ||store-rx.com^
 ||store-swatch.com^
 ||store4porn.com^
-||storeadid.com^
 ||storeax.com^
 ||storebuildereurope.com^
 ||storecollegeonline.com^
@@ -153084,7 +153095,6 @@
 ||usmusk.net^
 ||usn.cc^
 ||usnd.to^
-||usnewoutdoor.com^
 ||link.biz-messaging.usnews.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
@@ -165452,6 +165462,7 @@
 ||yfgrxkz.com^
 ||yfkflfa.com^
 ||yfnzc.icu^
+||yfoega.xyz^
 ||yftpnol.com^
 ||yfznypugeuunng.com^
 ||yfzpxnb.xyz^
