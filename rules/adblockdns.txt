@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241015163113
-! Last modified: 2024/10/15 16:31:13
-! Blocked domains: 110942
+! Version: 20241016002942
+! Last modified: 2024/10/16 00:29:42
+! Blocked domains: 110960
 ! unBlocked domains: 41
 !
 ||005lxr.com^
@@ -1283,6 +1283,7 @@
 ||stats.2raumwelten.de^
 ||2ravel2ech1raze.quest^
 ||2rb5hh5t6.de^
+||2rbda.icu^
 ||2re6rpip2.de^
 ||2rhouse.com^
 ||2rich4bitches.com^
@@ -13326,6 +13327,7 @@
 ||marketing.awh.net^
 ||awhausaifoog.com^
 ||awhiledad.com^
+||awhoupsou.com^
 ||analytics.awhr.com^
 ||a18348.awicksin.com^
 ||a37635.awicksin.com^
@@ -18564,6 +18566,7 @@
 ||boweddemand.com^
 ||bowedrhymesnack.com^
 ||bowensynthdesign.com^
+||bowermisrule.com^
 ||bowerywill.com^
 ||ajs.bowintelligence.com^
 ||v1.bowintelligence.com^
@@ -29954,6 +29957,7 @@
 ||dkjdd9.wixsite.com^
 ||tr.dkomaison.info^
 ||dkrxtdnlg.com^
+||dktad.com^
 ||bvrwsn.dkwadrat.pl^
 ||dl-protect.net^
 ||dl-rms.com^
@@ -34026,6 +34030,7 @@
 ||ads1.erotism.com^
 ||erowinners.com^
 ||eroytid.site^
+||erpabsjbxlb.com^
 ||erplb.com^
 ||erpo-45.cfd^
 ||err.chicappa.jp^
@@ -36274,6 +36279,7 @@
 ||febwalli.com^
 ||febyeldb.com^
 ||fecebook.com^
+||fecguzhzeia.vip^
 ||fedapush.net^
 ||fedassuagecompare.com^
 ||federalfha.com^
@@ -40214,6 +40220,7 @@
 ||gdevstudios.com^
 ||gdpr-settings.s3.amazonaws.com^
 ||ssl2.gdqifang.com^
+||gdrcaguddyj.space^
 ||gds786bomyc.com^
 ||gdsis.cl^
 ||js.gdsln.ru^
@@ -44243,6 +44250,7 @@
 ||hardabbuy.live^
 ||lp.hardagain.site^
 ||hardcorehacks.com^
+||harderjuniormisty.com^
 ||qcmxuy.hardloop.de^
 ||loobmf.hardloop.fr^
 ||hardlycompanionelongated.com^
@@ -52527,6 +52535,7 @@
 ||iupot.com^
 ||iuqasw.xyz^
 ||iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com^
+||iuresdo.top^
 ||iuslaboralistas.com^
 ||iutur-ixp.com^
 ||iuuiugbjd.xyz^
@@ -55896,6 +55905,7 @@
 ||ywrcqa.kgw.com^
 ||kgwoodworksandcabinets.com^
 ||kgyhxdh.com^
+||kh-bkcvqxc.online^
 ||links.kha.com^
 ||vib.khach-hang-the-tructuyen.com^
 ||a8clk.www.khaki.jp^
@@ -59298,6 +59308,7 @@
 ||avividone.likr.tw^
 ||liktufmruav.com^
 ||likuidator.com^
+||likutaencoil.shop^
 ||lil.ge^
 ||lilac-mall.com^
 ||lilacbeaten.com^
@@ -73261,6 +73272,7 @@
 ||outlineappearbar.com^
 ||outloginequity.com^
 ||outmatchurgent.com^
+||outnidorinoom.com^
 ||outnumberminded.com^
 ||outoctillerytor.com^
 ||outofthecath.org^
@@ -87293,6 +87305,7 @@
 ||clk.rratrack.com^
 ||rrbconventschool.com^
 ||images.info.rrd.com^
+||rrdhtqhgu.com^
 ||rre.com.np^
 ||rrgbjybt.com^
 ||rrhhconsulting.com^
@@ -92063,6 +92076,9 @@
 ||soonpersuasiveagony.com^
 ||soonstrongestquoted.com^
 ||link.sooooon.com^
+||adballoon.sooplive.co.kr^
+||deapi.sooplive.co.kr^
+||reqde.sooplive.co.kr^
 ||soopsepsi.net^
 ||soopsulo.xyz^
 ||sooraneh.ir^
@@ -107651,6 +107667,7 @@
 ||wuqozyazoe.live^
 ||wurakac.live^
 ||wuruigroup.com^
+||wurunoax.com^
 ||parrotfish.wus.immo^
 ||wusahea.com^
 ||wutakyogeo.info^
@@ -109882,6 +109899,7 @@
 ||zauthuvy.com^
 ||hlcyef.zavetti.com^
 ||zavodacon.one^
+||zavoxlquwb.com^
 ||zawieje.pl^
 ||zawodnyumysl.click^
 ||zawodowapraktyka.click^
