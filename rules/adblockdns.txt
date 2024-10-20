@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241020163148
-! Last modified: 2024/10/20 16:31:48
-! Blocked domains: 133179
+! Version: 20241021002857
+! Last modified: 2024/10/21 00:28:57
+! Blocked domains: 133208
 ! unBlocked domains: 6
 !
 ||allegrolokalnie.03-x0-13-av-13-11.shop^
@@ -2337,6 +2337,7 @@
 ||4hfchest5kdnfnut.com^
 ||jb.4hw.com.cn^
 ||js.4hw.com.cn^
+||4iazoa.xyz^
 ||4ieghiufb.website^
 ||4imk5.online^
 ||metric.4imprint.com^
@@ -2613,6 +2614,7 @@
 ||56bfc388bf12.com^
 ||56degrees.net^
 ||56fba.cn^
+||56ovido.site^
 ||56rt2692.de^
 ||track.56txs4.com^
 ||www.57.com.cn^
@@ -4073,6 +4075,7 @@
 ||a8.net^
 ||a823.com^
 ||a85.info^
+||a85d43cd02.com^
 ||a9.com^
 ||a908a849.xyz^
 ||75b782b8d1.a994f63e51.com^
@@ -5648,6 +5651,7 @@
 ||addictinginfo.org^
 ||addiction.news^
 ||addictionhelpcenter.com^
+||addictionmulegoodness.com^
 ||addictrelive.com^
 ||addin.icu^
 ||addin.name^
@@ -19477,6 +19481,7 @@
 ||betrad.com^
 ||betrally.com^
 ||betravelholic.com^
+||betray1266.fun^
 ||betrayalmakeoverinstruct.com^
 ||betrayedcommissionstocking.com^
 ||betrayedrecorderresidence.com^
@@ -23955,6 +23960,7 @@
 ||bmgiventures.com^
 ||www.bmglabtech.com^
 ||bmhept.xyz^
+||bmjfsozmscdlgt.com^
 ||bmjidc.xyz^
 ||bmkz57b79pxk.com^
 ||bmlcuby.com^
@@ -24685,6 +24691,7 @@
 ||borrowdefeat.com^
 ||borrowedtransition.com^
 ||borrowingbalm.com^
+||borrowjavgg124.fun^
 ||borrowmarmotforester.com^
 ||borsendental.com^
 ||adat.borsonline.hu^
@@ -25404,6 +25411,7 @@
 ||breathinginspiration.com^
 ||breathlessselfcontrol.com^
 ||breathtakingdetachwarlock.com^
+||brecaqogx.com^
 ||brechtembrowd.com^
 ||edge.bredg.com^
 ||breechesbottomelf.com^
@@ -36889,6 +36897,7 @@
 ||czilladx.com^
 ||czncztrk.com^
 ||ai.czrlibr.xyz^
+||czrsmswlt.com^
 ||au.cztessl.live^
 ||bud.cztessl.live^
 ||budbud.cztessl.live^
@@ -43313,6 +43322,7 @@
 ||dtinnowebsys.info^
 ||affiliate.dtiserv.com^
 ||rss.dtiserv.com^
+||dtkgorqjwflvhl.com^
 ||app.dtlphx.net^
 ||dtmatrixcode.info^
 ||www.dtmd.ru^
@@ -47296,6 +47306,7 @@
 ||go.eruditelifestyle.co.uk^
 ||eruthoxup.com^
 ||erv01.cc^
+||ervantasrelaterc.com^
 ||data-81547504c8.erwin-event.de^
 ||data-83380557db.erwin-event.de^
 ||pdlavr.erwinmueller.com^
@@ -59663,8 +59674,10 @@
 ||annwwu.guitarcenter.com^
 ||guitarconfigurator.com^
 ||guitarfelicityraw.com^
+||guitarjavgg124.fun^
 ||guitarpro.cc^
 ||gtm.guitarzoom.com^
+||guizhhaa.com^
 ||guizhouxinsheng.com^
 ||guj.jp^
 ||gujakqludcuk.com^
@@ -62015,6 +62028,7 @@
 ||heybarnacle.com^
 ||heyblink.me^
 ||heycompassion.com^
+||heycryptic.com^
 ||lezntf.heydudeshoesusa.com^
 ||m.heygugu.com^
 ||heyisitmefriend.tcp4.me^
@@ -63972,6 +63986,7 @@
 ||hrtvluy.com^
 ||hrufnd.lol^
 ||hrufnd.one^
+||hrwbr.life^
 ||hrworkevereday.com^
 ||hrxjqyxvdqidpv.com^
 ||hrxkdrlobmm.com^
@@ -67042,6 +67057,7 @@
 ||go.indonesiacupid.co^
 ||indonesiavolcano.com^
 ||www.indopacifico.com^
+||indor.site^
 ||indoreefs.com^
 ||www.indpcr1.com^
 ||indpolice.com^
@@ -73162,6 +73178,7 @@
 ||jyusesoionsglear.info^
 ||jyuskb.cn^
 ||jyvith.xyz^
+||jyvkwqjoombkz.top^
 ||jywczbx.com^
 ||jyxzrb.xyz^
 ||jyzhk.com^
@@ -73935,6 +73952,7 @@
 ||kaributanzanite.com^
 ||karinaroom.wixsite.com^
 ||karinart.de^
+||kariqjoxppwhcz.com^
 ||a8cv.karitoke.jp^
 ||k-pilot.kariyer.net^
 ||kariyerfirsatin.com.tr^
@@ -80261,6 +80279,7 @@
 ||lurchedchafted.top^
 ||lureillegimateillegimate.com^
 ||track.luremii.com^
+||luresdl.top^
 ||lurk-online.com^
 ||lurkfibberband.com^
 ||lurkingpoo.com^
@@ -83948,6 +83967,7 @@
 ||www.milawka.com^
 ||trk.milda.se^
 ||mildlyrambleadroit.com^
+||mildsewery.click^
 ||milena-malinka.blogspot.com^
 ||ads-delivery.milenarmedia.pt^
 ||milenium.site^
@@ -92668,6 +92688,7 @@
 ||octea.com^
 ||octeconi.com^
 ||moose.octo.app^
+||octoads.shop^
 ||octobergypsydeny.com^
 ||octobird.com^
 ||octolinkcom.me^
@@ -94476,6 +94497,7 @@
 ||oqfpuzaltac.com^
 ||oqnjfotketk.com^
 ||oqpahlskaqal.com^
+||oqqwrjanxy.com^
 ||or-oil.online^
 ||orabsola.com^
 ||oracle-patches.ru^
@@ -94651,6 +94673,7 @@
 ||samle.orggf.xyz^
 ||won.orggf.xyz^
 ||orgsales.ru^
+||orhavingartisticta.com^
 ||pages.info.orhp.com^
 ||oribaramlaw.com^
 ||oriel.io^
@@ -94841,6 +94864,7 @@
 ||ospreyorceins.com^
 ||osqa.com^
 ||osrrltw.cn^
+||osrxzucira.com^
 ||ossfloetteor.com^
 ||ossgogoaton.com^
 ||osskanger.com^
@@ -95514,6 +95538,7 @@
 ||oywzrri.com^
 ||oyxctgotabvk.com^
 ||data-d4db30a18b.oz-online.de^
+||oz-yypkhuwo.rocks^
 ||ozanocal.com^
 ||axp.ozarksfirst.com^
 ||ozarkvillage.net^
@@ -97947,6 +97972,7 @@
 ||pictureturn.com^
 ||dr1.piczlabs.com^
 ||dr3.piczlabs.com^
+||pidcowwnwwwx.com^
 ||pidorg.ru^
 ||m.pieaa.com^
 ||a8x.piece-kaitori.jp^
@@ -108461,6 +108487,7 @@
 ||qjbnyb.top^
 ||qjinvestments.com^
 ||qjmlmaffrqj.com^
+||qjparxwc.com^
 ||usjn.qjtevtf.top^
 ||qjudpxkisv.xyz^
 ||qjukphe.com^
@@ -122518,6 +122545,7 @@
 ||tipforcefulmeow.com^
 ||tipico.com^
 ||tipicool.com^
+||tipjamdavwygxm.com^
 ||tipkeomoingay.club^
 ||tipollerstrk.com^
 ||tipos.sk^
@@ -126457,6 +126485,7 @@
 ||uyhgqunqkxnx.pw^
 ||uyiteasacomsys.info^
 ||uyjxzvu.com^
+||uynhupsmini.com^
 ||uyohyy.xyz^
 ||uyunad.com^
 ||uyyquln.icu^
