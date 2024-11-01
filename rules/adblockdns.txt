@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241101003155
-! Last modified: 2024/11/01 00:31:55
-! Blocked domains: 135556
+! Version: 20241101092041
+! Last modified: 2024/11/01 09:20:41
+! Blocked domains: 135571
 ! unBlocked domains: 26
 !
 ||00dbs.id^
@@ -19628,6 +19628,7 @@
 ||popcashjs.b-cdn.net^
 ||predataclient.b-cdn.net^
 ||propsid.b-cdn.net^
+||psh-static.b-cdn.net^
 ||pub-1kerwcwkwrmjg5ak9zyejlverqmsxjoyjh.b-cdn.net^
 ||pushlandings.b-cdn.net^
 ||sp-wukong-tracker.b-cdn.net^
@@ -31516,6 +31517,7 @@
 ||cf688.club^
 ||cf6899.com^
 ||cf68vn.com^
+||7b53efdf4e.cf97134c89.com^
 ||smetrics.cfainstitute.org^
 ||cfateu.xyz^
 ||cfc1afd774.com^
@@ -37066,6 +37068,7 @@
 ||z492.ctinsider.com^
 ||ctiotjobkfu.com^
 ||ctkyom.xyz^
+||ctlacnh.icu^
 ||ctlrarz.xyz^
 ||ctm-media.com^
 ||ctmrso.xyz^
@@ -46405,6 +46408,7 @@
 ||478789.everydayporn.co^
 ||61serve.everydayporn.co^
 ||s.everydayporn.co^
+||a.everymark.xyz^
 ||static.everyone.net^
 ||everyoneawokeparable.com^
 ||everyoneglamorous.com^
@@ -51906,6 +51910,7 @@
 ||g371.info^
 ||documentwebcloud.g4kunmwvek.free.hr^
 ||g4news.biz^
+||g4y7uuk.com^
 ||g52bxi1v1w.com^
 ||cdn.g5e.com^
 ||ceg.g5e.com^
@@ -54973,6 +54978,7 @@
 ||goodstriangle.com^
 ||affiliates.goodvibes.com^
 ||goodvibesmatterforus.com^
+||a.goodweet.xyz^
 ||goody-gold.com^
 ||wcyjcl.goodyear.com^
 ||goodyearazbeeremoval.com^
@@ -55456,6 +55462,7 @@
 ||gradethelandlord.com^
 ||education.graduateprogram.org^
 ||teach.graduateprogram.org^
+||graesol.com^
 ||graettingerlaw.com^
 ||faro-collector-prod-eu-west-0.grafana.net^
 ||graientpyompte.pro^
@@ -56685,6 +56692,7 @@
 ||habukaiambics.com^
 ||habutaeirisate.com^
 ||hacdeg.com^
+||haceroberomaste.com^
 ||asp.hachipp119.com^
 ||hack-download.com^
 ||hack-email.com^
@@ -65517,6 +65525,7 @@
 ||marketing.irvingtexas.com^
 ||saber.irwebservice.ir^
 ||irxcm.com^
+||irxybq.com^
 ||kcvwuw.iryouworker.com^
 ||is-a-personaltrainer.com^
 ||ciezkieczasy.is-best.net^
@@ -70813,7 +70822,6 @@
 ||kjaerra.no^
 ||kjayru.com^
 ||kjbbc.net^
-||kjcafatfgwpggu.xyz^
 ||kjdvn1340-ads.blogspot.com^
 ||wws.atendimento-prime.com.br.kje.us^
 ||kjeqga.xyz^
@@ -81658,6 +81666,7 @@
 ||mischicharrones.com^
 ||mischiefrealizationbraces.com^
 ||miscreantmoon.com^
+||a.misctool.xyz^
 ||vagolysis.misdoers.site^
 ||vegetalcule.misdoers.site^
 ||traceparcel-dhlupdate-dh.misecure.com^
@@ -86351,9 +86360,12 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
+||navi11.ru^
 ||navi12.com^
+||navi15.ru^
 ||navi18.com^
 ||navi2.com^
+||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -86370,6 +86382,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -103021,6 +103034,7 @@
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
 ||qglinlrtdfc.com^
+||qgmwby.com^
 ||sdk.api.qgraph.io^
 ||qguwoq.cn^
 ||qgxbluhsgad.com^
@@ -103076,6 +103090,7 @@
 ||sdk.qikify.com^
 ||qilicaakoa.org^
 ||m.qilungroup.cn^
+||black.qimo.ink^
 ||www.qinchugudao.com^
 ||qinghua.cc^
 ||a.qinghua5.com^
@@ -104082,6 +104097,7 @@
 ||raiden.online^
 ||raidframe.info^
 ||usenet.raidrush.org^
+||raiffeisenmining.com^
 ||raijigrip.com^
 ||raikeurope.com^
 ||piwik.rail.cc^
@@ -108609,7 +108625,6 @@
 ||samplecomfy.com^
 ||samplehavingnonstop.com^
 ||sampleresumes.org^
-||sampoang.xyz^
 ||sampugly.net^
 ||samratconstructions.com^
 ||samrockchem.com^
@@ -120222,7 +120237,6 @@
 ||matong3.tigonsys.com^
 ||news.tigregame.us^
 ||tihdjd.xyz^
-||tihursoa.net^
 ||apiv2.tiin.vn^
 ||tijaarah.com^
 ||tk.tikamoon.ch^
@@ -127902,7 +127916,6 @@
 ||panel.home.pl-477a774b.wabu.pl^
 ||wabusinessdaily.com^
 ||wacaiji.com^
-||wachipho.net^
 ||marketing.wachsws.com^
 ||wacisi.xyz^
 ||metrics.wacken.com^
@@ -132548,6 +132561,7 @@
 ||xg4ken.com^
 ||analytics.xgate.com^
 ||tracker.xgen.dev^
+||xggcyef.icu^
 ||xgihlgcfuu.com^
 ||xgogi.com^
 ||alaska.xhamster.com^
@@ -132699,6 +132713,7 @@
 ||v.xjsytoy.com^
 ||xjtosdof.icu^
 ||www.xjwrq.com^
+||xjwzbo.com^
 ||xjyxgy.com^
 ||xkarma.net^
 ||xkejsns.com^
