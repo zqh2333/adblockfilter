@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241108163141
-! Last modified: 2024/11/08 16:31:41
-! Blocked domains: 108838
+! Version: 20241109003057
+! Last modified: 2024/11/09 00:30:57
+! Blocked domains: 108855
 ! unBlocked domains: 16
 !
 ||donamervotes.000.pe^
@@ -10780,6 +10780,7 @@
 ||ashleypjames.com^
 ||ashleypos.com^
 ||ashleyssecrets.com^
+||ashlingzanyish.com^
 ||ashneetafashion.com^
 ||ashokainterior.com^
 ||ashoupsu.com^
@@ -20735,6 +20736,7 @@
 ||8s8892-8a8.all-egro-pl.bywicio.pl^
 ||bywordmiddleagedpowder.com^
 ||byyanmaor.com^
+||byzoruator.com^
 ||data-861bbf2127.bz-berlin.de^
 ||data-bb21a2f11b.bz-berlin.de^
 ||data-f943e74ec9.bz-berlin.de^
@@ -29533,6 +29535,7 @@
 ||deadlockplaytest.com^
 ||sourcepoint.deadspin.com^
 ||deafeningdock.com^
+||deafeningphone.com^
 ||deai-labo.site^
 ||nitcnn.deai-sp.com^
 ||deaiai55.com^
@@ -36678,6 +36681,7 @@
 ||eveningtimes-gb.eveningtimes.co.uk^
 ||evenot.date^
 ||awwepz.evenstadmusikk.no^
+||event-dot-procolor-backend.appspot.com^
 ||event-reporting-dot-webylytics.appspot.com^
 ||eventbarricadewife.com^
 ||analytics.eventbrite.com^
@@ -39173,6 +39177,7 @@
 ||fkodq.com^
 ||fkondate.com^
 ||fkourazirop.shop^
+||fkpgr.buzz^
 ||fkr63eryj6sp4.ru^
 ||fkref.com^
 ||fl-0wer685hjdp300.com^
@@ -42261,6 +42266,7 @@
 ||gearfu.com^
 ||geargrope.com^
 ||gearhomies.com^
+||gearhuman.com^
 ||geari.org^
 ||gearingsinth.world^
 ||gearstastic.com^
@@ -43303,6 +43309,7 @@
 ||glimmeringslmker.info^
 ||glimr.io^
 ||glipdax.com^
+||gliptoacaft.net^
 ||glisteningguide.com^
 ||glisteningsign.com^
 ||glitch.news^
@@ -47351,6 +47358,7 @@
 ||hh-btr.com^
 ||affilate.hh.ru^
 ||cpa.hh.ru^
+||hhbehcahhajfffciaaef.world^
 ||marketing.hhglobal.com^
 ||shop.hhhooff.shop^
 ||hhju87yhn7.top^
@@ -53143,6 +53151,7 @@
 ||itstuffnews.com^
 ||itsup.com^
 ||itswabluon.com^
+||ittaels.com^
 ||ittogepiom.com^
 ||ittontrinevengre.info^
 ||metrics.ittoolbox.com^
@@ -61019,6 +61028,7 @@
 ||louchaug.com^
 ||louchees.net^
 ||loudbars.com^
+||louderoink.shop^
 ||louderwalnut.com^
 ||loudlongerfolk.com^
 ||loudlunch.com^
@@ -66399,6 +66409,7 @@
 ||data-83d91ea519.morgenweb.de^
 ||affil.moringamix.cz^
 ||ad-app.morion.ua^
+||morionlochus.com^
 ||morningamidamaruhal.com^
 ||elqtrk.morningstar.ca^
 ||elqtrk.sg.morningstar.com^
@@ -67270,6 +67281,7 @@
 ||mwfsc.com^
 ||mwj1mvpb.top^
 ||mwlle.com^
+||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||cyberfolks-pl-0bfabd02e77.mwpavimentos.com.br^
 ||cyberfolks-pl-2bb014ca608.mwpavimentos.com.br^
 ||cyberfolks-pl-58bcfe4fb90.mwpavimentos.com.br^
@@ -68597,7 +68609,6 @@
 ||navi36.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -69870,6 +69881,7 @@
 ||nip24.com^
 ||nip26.com^
 ||nip28.com^
+||nip29.com^
 ||nip3.com^
 ||nip4.com^
 ||nip5.com^
@@ -75194,6 +75206,7 @@
 ||phenver.com^
 ||phepofte.net^
 ||pheptoam.com^
+||pheqae.com^
 ||pheselta.net^
 ||smetrics.phesgo.com^
 ||phgliders.com^
@@ -82865,6 +82878,7 @@
 ||razor-games.com^
 ||razor1911download.com^
 ||razor1911gaming.net^
+||razorvenue.com^
 ||razzedwhimsic.website^
 ||rb-net.com^
 ||rb88.com^
@@ -88704,6 +88718,7 @@
 ||shoopusahealth.com^
 ||shoopvv.com^
 ||shoordaird.com^
+||shoorsoacmo.xyz^
 ||shoosh.co^
 ||shooterconsultationcart.com^
 ||shooterlearned.com^
@@ -89633,6 +89648,7 @@
 ||sjezce.xyz^
 ||analytics.sjf.se^
 ||sjgsgy.xyz^
+||sjilyhwpu.xyz^
 ||olx-pol-kxlsw2.sjkdh.xyz^
 ||sjluuom.icu^
 ||sjmsw.net^
@@ -105622,6 +105638,7 @@
 ||withcabin.com^
 ||withearamajo.info^
 ||withlovetravel.com^
+||withnimmunger.com^
 ||without-boarders.com^
 ||app.withutraining.com^
 ||wittchen-online.top^
