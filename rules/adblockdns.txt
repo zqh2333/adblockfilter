@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241109003057
-! Last modified: 2024/11/09 00:30:57
-! Blocked domains: 108855
+! Version: 20241109091357
+! Last modified: 2024/11/09 09:13:57
+! Blocked domains: 108877
 ! unBlocked domains: 16
 !
 ||donamervotes.000.pe^
@@ -1888,6 +1888,7 @@
 ||stat.58che.com^
 ||stat-58home.58che.com^
 ||58mingri.cn^
+||58shuz.com^
 ||590578zugbr8.com^
 ||www.j9yvvyc.591books.xyz^
 ||592749d456.com^
@@ -2041,6 +2042,7 @@
 ||68gamebai.tel^
 ||68lottery.com^
 ||app.68win.co^
+||68yscw.com^
 ||69-13-59.ru^
 ||69-hky.cfd^
 ||trace.690.co^
@@ -12076,6 +12078,7 @@
 ||go.avvo.com^
 ||avwjyvzeyeov.top^
 ||avwlptrk.com^
+||avxonsp.icu^
 ||avygpim.com^
 ||awaitdetestableitem.com^
 ||awakenedsour.com^
@@ -21999,6 +22002,7 @@
 ||cbox.ws^
 ||cbpheback.com^
 ||cbproads.com^
+||cbro.win^
 ||cbs-35.cfd^
 ||saa.cbs.com^
 ||axp.cbs17.com^
@@ -31833,6 +31837,7 @@
 ||tracking.dn.se^
 ||tracking.etidning.dn.se^
 ||dn3hksy6kf.com^
+||dn4qoz.com^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn9.biz^
 ||dnacdn.net^
@@ -44772,6 +44777,7 @@
 ||graphzer.com^
 ||grapseex.com^
 ||grapselu.com^
+||graptaupsi.net^
 ||graptolitesudner.life^
 ||ff-member.grarena.vn^
 ||a8cv.grassbeaute.jp^
@@ -45095,6 +45101,7 @@
 ||gripwheels.com^
 ||grirault.net^
 ||a8clk.grirose.jp^
+||grirqaks.com^
 ||grirtouy.com^
 ||rook.grithix.com^
 ||gritsant.skin^
@@ -45449,6 +45456,7 @@
 ||info.guardianews.site^
 ||marketing.guardianfinancialgp.com^
 ||connect.guardiangroupbenefits.com^
+||guardiannostrils.com^
 ||guardiansesports.com^
 ||ads.guardianunlimited.co.uk^
 ||go.guardicore.com^
@@ -48154,6 +48162,7 @@
 ||cdn.holmesmind.com^
 ||marketing.holocentric.com^
 ||holographichno.com^
+||hologydeno.info^
 ||holsfellen.shop^
 ||holspostcardhat.com^
 ||sc.holtsmilitarybank.co.uk^
@@ -57447,6 +57456,7 @@
 ||koun-wa.com^
 ||koundayori.com^
 ||kounnomichishirube.net^
+||kouphouwhajee.net^
 ||kousjcignye.com^
 ||koussinnielli.com^
 ||a8-kouten.kouten.work^
@@ -71228,6 +71238,7 @@
 ||obovsemonline.ru^
 ||oboxads.com^
 ||obr-invest.com^
+||obr3.space^
 ||obradjgifja.com^
 ||obrennan.org^
 ||obronaprawdy.click^
@@ -71396,6 +71407,7 @@
 ||odpowiedzenie.click^
 ||odpowiedzialnemedia.rest^
 ||odpowiedzmedialna.rest^
+||odqciqdazjuk.com^
 ||odrecznepismo.click^
 ||odrownowagaco.yachts^
 ||correouy.odsr.top^
@@ -74343,6 +74355,7 @@
 ||payperranking.com^
 ||paypie.net^
 ||paypiz.com^
+||payplintelverify3.site^
 ||payplservice52170.site^
 ||payplservice52173.site^
 ||payplservice56170.site^
@@ -74484,6 +74497,7 @@
 ||www.pcpremium.pl^
 ||www.pcprivacysoftware.com^
 ||a.pcpro.co.uk^
+||pcqze.tech^
 ||pcrentalindia.com^
 ||pcstore.com.tw^
 ||marketing.pcsww.com^
@@ -86376,6 +86390,7 @@
 ||samba.tv^
 ||sambaads.com^
 ||go.sambafoot.com^
+||gabrielahlavack.samcart.com^
 ||samconus.com^
 ||samedical.co^
 ||sameklopoty.click^
@@ -90442,6 +90457,7 @@
 ||sensors.snaptube.app^
 ||snaretoeburp.work^
 ||snarlaptly.com^
+||snarlsfuzzes.com^
 ||snarlyandme.org^
 ||act-on.snb.com^
 ||app.snbla.com^
@@ -96596,6 +96612,7 @@
 ||thinrabbitsrape.com^
 ||tracking.thiomucase.es^
 ||third-tracking.com^
+||thirdads.me^
 ||thirdgas.com^
 ||thirdonshop.com^
 ||apple.thirdrail-press.com^
@@ -97995,6 +98012,7 @@
 ||track.tproger.ru^
 ||tpwtjya.com^
 ||tpydhykibbz.com^
+||tqanmatx.icu^
 ||tqbrnd.xyz^
 ||tquvbfl.com^
 ||tqznjujv.xyz^
@@ -98644,6 +98662,7 @@
 ||trimay.ru^
 ||solution.trimech.com^
 ||app.trimenu.com^
+||trimmoits.com^
 ||trimpagkygg.com^
 ||trimpost.com^
 ||trimpur.com^
@@ -99481,6 +99500,7 @@
 ||tydo88.com^
 ||tydouke.com^
 ||tydrfoil.site^
+||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||www.tygersci.com^
 ||tygodnikpolski.rest^
@@ -103217,6 +103237,7 @@
 ||mail.vivus1.com^
 ||viwvamotrnu.com^
 ||vjcbm.com^
+||vjlyljbjjmley.top^
 ||usr.vjqiqow.top^
 ||www.vjsoft.net^
 ||vjugz.com^
@@ -106603,6 +106624,7 @@
 ||a.xixiyishu.com^
 ||smartcare.xja.pl^
 ||xjfqqyrcz.com^
+||xjlqybkll.com^
 ||xjpakmdcfuqe.in^
 ||xjpmlf.xyz^
 ||xjs.lol^
