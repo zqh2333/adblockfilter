@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241110002751
-! Last modified: 2024/11/10 00:27:51
-! Blocked domains: 161828
+! Version: 20241110091806
+! Last modified: 2024/11/10 09:18:06
+! Blocked domains: 161837
 ! unBlocked domains: 39
 !
 ||assistancehelp-snapchat-account.000.pe^
@@ -5856,7 +5856,6 @@
 ||addomain.net^
 ||addonsmash.com^
 ||addoor.net^
-||addr.cx^
 ||data-06d20d5dfa.addradio.de^
 ||data-3bf5bac5c5.addradio.de^
 ||data-463860f007.addradio.de^
@@ -8315,6 +8314,7 @@
 ||insights.aiu.sg^
 ||aiuknf.org^
 ||aivaylaco.com^
+||lcd.aivote.com^
 ||ro.aiwan4399.com^
 ||aiwanma99.com^
 ||aiwealthwizard.pro^
@@ -36611,6 +36611,7 @@
 ||correopista.com^
 ||correors.my^
 ||correos-app.help^
+||correos-app.link^
 ||correos-cr.art^
 ||correos-es.club^
 ||correos-es.my^
@@ -80502,6 +80503,7 @@
 ||aozmpm.jwell.com^
 ||webtrack.jwgrant.co.uk^
 ||updates.jwhillcountryresort.com^
+||jwhjqjfl.icu^
 ||jwlabsolutions.com^
 ||jwllogic.com^
 ||jwmstats.com^
@@ -81408,6 +81410,7 @@
 ||royal-glade-286f.kdsj.workers.dev^
 ||kdsk32lfa.xyz^
 ||kdufhr.xyz^
+||kdzgrvn.icu^
 ||keap.page^
 ||keapeiros.xyz^
 ||spider.kearneyjaycees.com^
@@ -98818,6 +98821,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -123854,6 +123858,7 @@
 ||www.roninbridge.app^
 ||ronite.top^
 ||ronmen.top^
+||ronnoble.com^
 ||ronslik.com^
 ||staging-refer.rooam.co^
 ||roobbet.com^
@@ -128601,6 +128606,7 @@
 ||smetrics.sherwoodparkchev.com^
 ||sherzer.com^
 ||sheschemetraitor.com^
+||shestieh.com^
 ||shestour.net^
 ||shestrozo.com^
 ||shesubscriptions.com^
@@ -133242,6 +133248,7 @@
 ||stakingsmile.com^
 ||stalerestaurant.com^
 ||staleshow.com^
+||stallioncredit.com^
 ||stallionsmile.com^
 ||stallsmalnutrition.com^
 ||staltoumoaze.com^
@@ -140525,6 +140532,7 @@
 ||skink.thoumi.ch^
 ||thouphouwhad.net^
 ||thoupsuk.net^
+||thouptoorg.com^
 ||thousandinvoluntary.com^
 ||jdzmqj.thousandtrails.com^
 ||thousheek.com^
@@ -146548,6 +146556,7 @@
 ||uniquemelink.com^
 ||lp.uniqueperformance.site^
 ||uniquepowerbd.com^
+||uniqueshirt.shop^
 ||uniqueworldlimo.com^
 ||uniregistry.com^
 ||images.contacto.unis.edu.gt^
