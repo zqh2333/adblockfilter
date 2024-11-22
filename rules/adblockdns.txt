@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241122003153
-! Last modified: 2024/11/22 00:31:53
-! Blocked domains: 147890
+! Version: 20241122091923
+! Last modified: 2024/11/22 09:19:23
+! Blocked domains: 147898
 ! unBlocked domains: 47
 !
 ||informinfluencer.000.pe^
@@ -43972,6 +43972,7 @@
 ||cut-urls.com^
 ||cutant.date^
 ||cute-gossip.com^
+||cuteab.com^
 ||cutebaitsforum.cc^
 ||cutecams.space^
 ||cutecheapphonecases.com^
@@ -77694,6 +77695,7 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||izumoukraumsew.net^
+||izuts.com^
 ||hcjpbc.j-14.com^
 ||trck-a8.j-depo.com^
 ||uzhpky.j-lounge.jp^
@@ -84663,6 +84665,7 @@
 ||joda.leggo.it^
 ||leggymomme.top^
 ||leghairy.net^
+||legiblyosmols.top^
 ||nplden.legionathletics.com^
 ||legioncup-dev.com^
 ||egret.legislative.tech^
@@ -90212,6 +90215,7 @@
 ||marketing.medata.com^
 ||get.medbridge.com^
 ||enterprise.medbridgeed.com^
+||medbroadcast.com^
 ||medbrowse.info^
 ||marketing.medcallrx.com^
 ||medcasters.com^
@@ -101242,7 +101246,6 @@
 ||onlinegighub.com^
 ||hyfiic.onlinehirdavatci.com^
 ||cgicounter.onlinehome.de^
-||onlinehome.us^
 ||partneri.onlinejazyky.cz^
 ||onlinekey.biz^
 ||onlinekino.pl^
@@ -101869,6 +101872,7 @@
 ||oqex.io^
 ||oqfoczdfyag.com^
 ||oqfpuzaltac.com^
+||oqipegjz.icu^
 ||oqllqea.top^
 ||oqnabsatfn.com^
 ||oqnjfotketk.com^
@@ -115435,6 +115439,7 @@
 ||royapp.com^
 ||sashimi.royli.dev^
 ||royrichie.com^
+||rozaholshouser.cfd^
 ||adaszymczak.rozaliaclaudia.com.pl^
 ||angelika610.rozaliaclaudia.com.pl^
 ||czesioland.rozaliaclaudia.com.pl^
@@ -133997,6 +134002,7 @@
 ||trustfolders.com^
 ||trustgauge.com^
 ||trusting-offer.com^
+||trusting-produce.com^
 ||trustleapp.com^
 ||digital.trustmark.com^
 ||trustmaxonline.com^
@@ -138121,6 +138127,7 @@
 ||data-cb62759f4c.vereinsleben.de^
 ||analytics.verfacto.com^
 ||verfine.netlify.app^
+||verfun.com^
 ||verfut.com^
 ||verggdcnjjoing.com^
 ||vergi-gwc.com^
@@ -147164,6 +147171,7 @@
 ||link.zikto.com^
 ||zillafashion.com^
 ||a.zillastream.com^
+||zillify.cfd^
 ||go.zillowgroup.com^
 ||analytics.zim.vn^
 ||mjp.zimad.com^
