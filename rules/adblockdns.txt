@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241206003401
-! Last modified: 2024/12/06 00:34:01
-! Blocked domains: 110586
+! Version: 20241206092130
+! Last modified: 2024/12/06 09:21:30
+! Blocked domains: 110617
 ! unBlocked domains: 12
 !
 ||dppd.023054815.xyz^
@@ -12883,6 +12883,8 @@
 ||attractivecutiewcx.com^
 ||attractivesurveys.com^
 ||tracking.attractwomen.com^
+||ad.api.attribuly.com^
+||tr.attribuly.com^
 ||attributedbroadcast.com^
 ||www.attribution-school.com^
 ||attributionapp.com^
@@ -14325,6 +14327,7 @@
 ||bailihaiw.com^
 ||api.bailingjiankang.com^
 ||m.bailingjiankang.com^
+||bailorunwaged.com^
 ||bainushe.com^
 ||baipahanoop.net^
 ||baiphefim.com^
@@ -16151,6 +16154,7 @@
 ||smetrics.bestoforlando.com^
 ||bestofpowertool.com^
 ||xzlxgo.bestofsigns.com^
+||bestoftoday.click^
 ||smetrics.bestofvegas.com^
 ||bestones.net^
 ||bestonlinecoupons.com^
@@ -21800,6 +21804,7 @@
 ||bousedirect.fr^
 ||boustahe.com^
 ||a8.bousui-pro.com^
+||bousyapinoid.top^
 ||delivery.marketing.boutiqaat.com^
 ||dl.boutiqaat.com^
 ||dl-test.boutiqat.com^
@@ -24683,6 +24688,7 @@
 ||data.promo.casiocanada.com^
 ||casionest292flaudient.com^
 ||fi.casiplay.com^
+||casitasoutgnaw.com^
 ||caskcountry.com^
 ||casketknightsfolder.com^
 ||casketparchhey.com^
@@ -25336,6 +25342,7 @@
 ||ceoserver-roundcube-webmail.pages.dev^
 ||www.cephei-b.com^
 ||smetrics.cepheid.com^
+||cephidcoastal.top^
 ||ceppayment.com^
 ||cepsidsoagloko.net^
 ||cer43asett2iu5m.com^
@@ -31069,6 +31076,7 @@
 ||cudjgcnwoo-s.icu^
 ||cudysoo.com^
 ||cue-find.com^
+||cue-oxvpqbt.space^
 ||cue4you.nl^
 ||cuebiq.com^
 ||cuefootingrosy.com^
@@ -31310,6 +31318,7 @@
 ||cvtbdap.xyz^
 ||smetrics.cvty.com^
 ||ads.cvut.cz^
+||cvvemdvrojgo.com^
 ||cvvzw.top^
 ||cvzfoods.com^
 ||cw-net.de^
@@ -45362,6 +45371,7 @@
 ||gafsolutions.com^
 ||gafuner.space^
 ||gagebonus.com^
+||gagheroinintact.com^
 ||gagnifie.com^
 ||gagufamily.com^
 ||gahelrasoul.com^
@@ -54698,6 +54708,7 @@
 ||imzahrwl.xyz^
 ||imzansi.co.za^
 ||in-appadvertising.com^
+||in-bdcvlj.love^
 ||in-da.cloud^
 ||in-fpost.top^
 ||in-gonline.com^
@@ -58794,6 +58805,7 @@
 ||joinmassive.com^
 ||lnk.joinpopp.in^
 ||app.joinraft.com^
+||trk.joinrs.com^
 ||counter.joins.com^
 ||analytics-wcms.joins.net^
 ||joinsinii.com^
@@ -60012,6 +60024,7 @@
 ||khehupzll.de^
 ||khekwufgwbl.com^
 ||kheloindia89.com^
+||khengrull.com^
 ||khhkfcf.com^
 ||uspq.khjjfkui.top^
 ||www.khmerceramics.com^
@@ -65994,6 +66007,7 @@
 ||mauphiph.net^
 ||mauritiuseducation.info^
 ||mautic.com^
+||mauzanapsusi.net^
 ||mauzna.xyz^
 ||mav-co.com^
 ||maverictoledo.com^
@@ -67012,6 +67026,7 @@
 ||stat24.meta.ua^
 ||tracking.meta.vn^
 ||metaape.xyz^
+||metachartview.com^
 ||aa.metacritic.com^
 ||metadownload.app^
 ||1.metaextension5.eu^
@@ -68971,6 +68986,7 @@
 ||go.monotaro.com^
 ||monotonnaoraz.rest^
 ||kfndek.monoweek.com^
+||monpaquet9trackpobox.com^
 ||monplacementmalin.com^
 ||visit.monroecollege.edu^
 ||monroeconews.com^
@@ -69252,6 +69268,7 @@
 ||mouse3k.com^
 ||mouseforgerycondition.com^
 ||mousetrace.com^
+||mousheebaivy.net^
 ||abgghj.moustakastoys.gr^
 ||analytics.mouthshut.com^
 ||a8cv.mova-creator-school.com^
@@ -71088,6 +71105,7 @@
 ||navi35.ru^
 ||navi36.ru^
 ||navi38.ru^
+||navi4.com^
 ||navi5.com^
 ||navi58.com^
 ||navi6.com^
@@ -74342,6 +74360,7 @@
 ||opabsolr.top^
 ||opac38.com^
 ||opads.us^
+||opdhoxor.com^
 ||opdxpycrizuq.com^
 ||opeanresultancete.info^
 ||tagger.opecloud.com^
@@ -75795,6 +75814,7 @@
 ||patrolujemysiec.click^
 ||patroposalun.pro^
 ||patsincerelyswing.com^
+||patteefief.shop^
 ||patterntrader.io^
 ||patterntrader.net^
 ||pattyheadlong.com^
@@ -83653,6 +83673,7 @@
 ||reedthatm.biz^
 ||reef4perfumes.com^
 ||reefcolloquialseptember.com^
+||reekedtravels.shop^
 ||ad.reeket.com^
 ||tracking.reeket.com^
 ||reeladvantages.com^
@@ -84732,6 +84753,7 @@
 ||secure.rime8lope.com^
 ||www.rime8lope.com^
 ||rimefatling.com^
+||rimoadoumo.net^
 ||tk.rimowa.com^
 ||rimraphael.com^
 ||rimwigckagz.com^
@@ -86692,6 +86714,7 @@
 ||scconnnews.com^
 ||sceno.ru^
 ||scentservers.com^
+||scfhspacial.com^
 ||sch.edu.pl^
 ||data-47ee1b0882.schanzenkino73.de^
 ||scheanet.com^
@@ -87962,6 +87985,7 @@
 ||tp.sheego.de^
 ||sheepkillers.com^
 ||sheeple.news^
+||sheeshumte.net^
 ||sheewoamsaun.com^
 ||edge.sheffieldfinancial.com^
 ||sheitel.sbs^
@@ -89662,6 +89686,7 @@
 ||soalouve.com^
 ||soaneefooy.net^
 ||soaperdeils.com^
+||soaphokoul.xyz^
 ||go.soaposta.com^
 ||soapsudkerfed.com^
 ||soarfi.cn^
@@ -91990,6 +92015,7 @@
 ||sm.sungardas.com^
 ||suniltamang.com^
 ||apm.suning.cn^
+||sunkcosign.com^
 ||target.sunlife.ca^
 ||metrics.sunlife.com^
 ||smetrics.sunlife.com.vn^
@@ -95684,6 +95710,7 @@
 ||smetrics.thoughtworks.com^
 ||thougnoangi.com^
 ||skink.thoumi.ch^
+||thoungoofeed.net^
 ||thouphouwhad.net^
 ||thousandinvoluntary.com^
 ||thovapsa.net^
@@ -99332,6 +99359,7 @@
 ||grado.ufv.es^
 ||ufzanvc.com^
 ||t.pac.uga.edu^
+||ugajiwft.icu^
 ||track.ugamezone.com^
 ||marketing.ugamsolutions.com^
 ||gfn1.ugap.fr^
@@ -103490,6 +103518,7 @@
 ||vooodkabelochkaa.com^
 ||voopaicheba.com^
 ||voopcreative.com^
+||voopsookie.net^
 ||net.voopter.com.br^
 ||vooptikoph.net^
 ||zlmtfk.voordeelgordijnen.nl^
@@ -104290,6 +104319,7 @@
 ||metrics.peoplescourt.warnerbros.com^
 ||ea.warnerbros.fr^
 ||ea.mywarner.warnerbros.fr^
+||atom-qa.warnermedia.com^
 ||live-media-lln.warnermediacdn.com^
 ||warnerrobinstoday.com^
 ||smetrics.warners.com^
@@ -105658,6 +105688,7 @@
 ||whatisuptodaynow.com^
 ||luumhi.whatonearthcatalog.com^
 ||www.whatreallyhappened.com^
+||whatredkm.com^
 ||whatsapp-32w.pages.dev^
 ||whatsapp-message.one^
 ||whatsapp-rqp.com^
