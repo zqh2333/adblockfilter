@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241208163109
-! Last modified: 2024/12/08 16:31:09
-! Blocked domains: 165661
+! Version: 20241209002923
+! Last modified: 2024/12/09 00:29:23
+! Blocked domains: 165665
 ! unBlocked domains: 49
 !
 ||048.com^
@@ -3745,6 +3745,7 @@
 ||contents.7gogo.jp^
 ||pixel.7grid.com^
 ||7hacks.com^
+||7hb.icu^
 ||7hink883v.xyz^
 ||7hor9gul4s.com^
 ||7host.com^
@@ -51034,6 +51035,7 @@
 ||ejdkqclkzq.com^
 ||ejevika.com^
 ||ejfeng.com^
+||ejimtyw.top^
 ||ejipaifaurga.com^
 ||pydnsv.ejobs.ro^
 ||ejolul.xyz^
@@ -64260,6 +64262,7 @@
 ||guppymedia.com^
 ||guptaseo.com^
 ||guptashop.com^
+||guqoinly.com^
 ||gurbetseli.com^
 ||nlawnt.gurhan.com^
 ||gurnote.xyz^
@@ -155024,6 +155027,7 @@
 ||wcbxugtfk.com^
 ||wccert.info^
 ||wccuicuitu.com^
+||wcdfxj.xyz^
 ||wcgeorgianews.com^
 ||wcharger.com^
 ||chatlink.wchatlink.com^
