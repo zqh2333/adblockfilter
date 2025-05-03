@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zGzfIwjs0LMTi62alKg0wg
-! Version: 202505030051
+! Checksum: IqBPiRRjaXzLiXOJagBe1w
+! Version: 202505030801
 ! Title: EasyList
-! Last modified: 03 May 2025 00:51 UTC
+! Last modified: 03 May 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55687,6 +55687,7 @@ valetmag.com##.ad-full_span_homepage-container
 valetmag.com##.ad-full_span_section-container
 mobilesyrup.com##.ad-goes-here
 business-standard.com##.ad-height-desktop
+roadtovr.com##.ad-height-sidebar
 carsauce.com##.ad-holder
 wago.io##.ad-in-search
 symbl.cc##.ad-incontent-rectangle
@@ -58676,6 +58677,7 @@ voxelmatters.com##.rss-ads-orizontal
 rswebsols.com##.rsws_banner_sidebar
 mykhel.com##.rt-top-ad
 nextofwindows.com##.rtsidebar-cm
+roadtovr.com##.rtvr_under_feature_ad
 run247.com##.run24-300x250-in-post
 run247.com##.run24-content
 freewebarcade.com##.rxads
@@ -59671,7 +59673,7 @@ newspointapp.com##[ctn-style]
 flatpanelshd.com##[data-aa-adunit]
 dribbble.com##[data-ad-data*="ad_link"]
 usnews.com##[data-ad-props]
-androidauthority.com##[data-ad-type]
+androidauthority.com,soundguys.com##[data-ad-type]
 charlieintel.com,dexerto.com##[data-ad-unit-id]
 gamelevate.com##[data-adpath]
 coingecko.com##[data-ads-target="banner"]
@@ -60141,6 +60143,7 @@ igg-games.com,pcgamestorrents.com##a[href][aria-label=""], [width="300"][height^
 techporn.ph##a[href][target*="blank"]
 rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##a[href][target="_blank"] > button
 tractorbynet.com##a[href][target="_blank"] > img[class^="attachment-large"]
+gelbooru.com##a[href^="//tsyndicate.com/"]
 codapedia.com##a[href^="/ad-click.cfm"]
 bestoftelegram.com##a[href^="/ads/banner_ads?"]
 graphic.com.gh##a[href^="/adverts/"]
