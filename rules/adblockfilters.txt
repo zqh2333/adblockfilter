@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260808010457
-! Last modified: 2026/08/08 01:04:57
-! Blocked Filters: 118225
+! Version: 20260808093106
+! Last modified: 2026/08/08 09:31:06
+! Blocked Filters: 118227
 !
 ###AC_ad
 ###AD_160
@@ -16610,6 +16610,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 -729x91-
 -780x90-
 -90mh-gg.
+-970x90-
 -980x60-
 -988x60.
 -ad-manager/$~stylesheet
@@ -35071,6 +35072,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||rockitecn.nohup.it/*/js/*.js$domain=rockit.it
 @@||roland-gazeta.pl^$generichide
 @@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com
+@@||rollercoin.com/static/img/referral_160-600.png$image
 @@||romsforever.co^$generichide
 @@||roomlala.*/assets/myspace/myprofile/sponsorship_controller-*.js
 @@||rootzaffiliates.com^$domain=rootzaffiliates.com
