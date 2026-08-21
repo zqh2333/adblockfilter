@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260821005459
-! Last modified: 2026/08/21 00:54:59
-! Blocked Filters: 118562
+! Version: 20260821091418
+! Last modified: 2026/08/21 09:14:18
+! Blocked Filters: 118564
 !
 ###AC_ad
 ###AD_160
@@ -93150,6 +93150,8 @@ zzzyk.com###Tinfo
 ||asset.d5techs.com/script/utm.min.js
 ||assets-prod.bitcointreasuries.net/partner-images/
 ||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com|skinny.co.nz
+||assets.aliexpress-media.com/g/AWSC/*/collina.js$script,domain=aliexpress.com
+||assets.aliexpress-media.com/g/AWSC/*/fireyejs.js$script,domain=aliexpress.com
 ||assets.apollo.io/micro/website-tracker/
 ||assets.bwbx.io/*/initialize_ads-*.js$domain=bloomberg.com
 ||assets.deltapictures.it/js/adblock/adblock.min.js
