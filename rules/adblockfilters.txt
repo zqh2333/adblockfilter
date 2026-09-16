@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260916035604
-! Last modified: 2026/09/16 03:56:04
-! Blocked Filters: 119023
+! Version: 20260916110556
+! Last modified: 2026/09/16 11:05:56
+! Blocked Filters: 119037
 !
 ###AC_ad
 ###AD_160
@@ -36232,6 +36232,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||static.jfrft.com/js/main_list.js^$domain=dilidili.wang
 @@||static.jfrft.com/js/main_video.js^$domain=dilidili.wang
 @@||static.kendam.com/js/prebid-ads.js
+@@||static.klaviyo.com/onsite/js/event_adapter.$domain=gear.blizzard.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.lbc.co.uk/*/libs/videojs/vast/video.ads.js$domain=lbc.co.uk
 @@||static.leaddyno.com/js$script,domain=s4l.us
@@ -44943,7 +44944,7 @@ chatelaine.com,fashionmagazine.com##.assmbly-ad-wrapper
 chatgpt.com##.border-token-border-default.mt-2.border-t:has(button[aria-label="Ad options"])
 chatgpt.com##.wm-app-threadContent aside[aria-label^="Sponsored"]
 chatgpt.com##[class*="_assistantAds"]
-chatgpt.com##[data-message-role="assistant"] > section[class]:has(> aside[aria-label] > div[role="list"] a[rel][target="_blank"] + [class] > button[aria-haspopup])
+chatgpt.com##[data-message-role="assistant"] > section[class]:has(> aside[aria-label] > div[role="list"] a[rel][target="_blank"][href*="&oppref="])
 chatgpt.com##[data-testid="bazaar-v2-elevated-box"]
 chatgpt.com##aside[data-assistant-ads-unit]
 chatgpt.com##div.opacity-100.transition-opacity.ease-out:has(button[aria-label="Sponsored options"], button[aria-label="Ad options"])
@@ -79376,6 +79377,7 @@ stileproject.com##.download-btn > a[href][rel="nofollow"][rel="nofollow"]
 stileproject.com##.fluid_nonLinear_bottom
 stileproject.com##.sponsor-btn
 stileproject.com,shemaleporn.xxx##.aff-item-list
+stimme.de##.download-btn
 stirilekanald.ro#?#div[class^="col-"] > div.sidebar.featured:has(> div.ad)
 stirileprotv.ro###billboardBanner
 stirileprotv.ro###branding
@@ -84969,6 +84971,9 @@ ustream.to$$script[wildcard="*['push']*['shift']*decodeURIComponent*"][min-lengt
 utahgunexchange.com##.rev_slider_wrapper
 utahgunexchange.com##.tp-revslider-mainul
 utahgunexchange.com##[href*="/click.track"]
+utatime.com##.playblocktop
+utatime.com##div[class^="responsive"]
+utatime.com##div[id^="amplified_"]
 utctime.net##[style="min-height:120px"]
 utilitymagazine.com.au,linoxide.com###text-36
 utne.com###URTK_Bottom_728x90
@@ -90717,6 +90722,7 @@ zzzyk.com###Tinfo
 ||3xplanetimg2.com/promo/iIRT8d.gif
 ||3xtraffic.com/ads/
 ||3xtraffic.com/common/000/cads/
+||3xyy.com^$popup
 ||3zmmm.net/ggxx/
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
@@ -94891,6 +94897,7 @@ zzzyk.com###Tinfo
 ||blehcourt.com^$document
 ||blehcourt.com^$popup
 ||blend.com/event/
+||blendfencingprune.com^$popup
 ||bliink.io^$third-party
 ||blink.net/e/
 ||blinksbobblepadding.com^$popup
@@ -99137,6 +99144,7 @@ zzzyk.com###Tinfo
 ||eevblog.com/images/comm/$image
 ||eeyy.cc/style/yxj.js
 ||effectivecpmcontent.com^$popup
+||effectivecpmnetwork.com^$popup
 ||effectiveratecpm.com^$popup
 ||efficientorbit.co^$document
 ||efficientorbit.co^$popup
@@ -106944,6 +106952,7 @@ zzzyk.com###Tinfo
 ||monsterofnews.com^$popup
 ||monsy.com^$third-party
 ||moonbbs.com/data/attachment/portal/
+||moonlighthathel.org^$popup
 ||moonrocketaffiliates.com^$popup
 ||moontrkr.com^$document
 ||mooseway.com^$third-party
@@ -111146,6 +111155,7 @@ zzzyk.com###Tinfo
 ||recontent.services.tvn.pl/*ad.xml$xmlhttprequest,redirect=noopvast-2.0,domain=tvn24.pl
 ||record.commissionkings.ag^$popup
 ||record.rizk.com^$popup
+||record.royalreelspartners.com^$popup
 ||recosenselabs.com^$third-party
 ||recoset.com^$third-party
 ||recruitics.com^$third-party
@@ -112815,6 +112825,7 @@ zzzyk.com###Tinfo
 ||sitebro.de^$third-party
 ||sitebro.net^$third-party
 ||sitecompass.com^$third-party
+||sitecorecloud.io/v1/events/
 ||sitefinity.com/collect/
 ||siteground.com/img/affiliate/
 ||siteground.com/img/banners/
@@ -114108,6 +114119,7 @@ zzzyk.com###Tinfo
 ||sultanovic.info/?*%$script
 ||sultrytraffic.com^$third-party
 ||sumatra.ai^$third-party
+||summertisaridicu.org^$popup
 ||sumo.com^$third-party
 ||sumologic.com^$third-party,domain=~sumologic.net
 ||sumome.com^$third-party
@@ -115569,6 +115581,7 @@ zzzyk.com###Tinfo
 ||trckswrm.com^$popup
 ||trebleperfect.com^$third-party
 ||tree-nation.com/js/track.js
+||treesmajestic.com^$popup
 ||trefoil.tv/adb/promo.js
 ||trellian.com^$popup
 ||trend.az/templates/adv/
@@ -117014,6 +117027,7 @@ zzzyk.com###Tinfo
 ||wankoz.com/plugin.js
 ||wanmei.com/public/js/stat.js
 ||wanmei.la/a*.js
+||wannaknowmysecret.com^$popup
 ||wantatop.com^$popup
 ||wantatop.com^$third-party
 ||wantedbabes.com/fload.js
