@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260920110636
-! Last modified: 2026/09/20 11:06:36
-! Blocked Filters: 119034
+! Version: 20260920211045
+! Last modified: 2026/09/20 21:10:45
+! Blocked Filters: 119035
 !
 ###AC_ad
 ###AD_160
@@ -15323,7 +15323,6 @@
 ##div[data-contentexchange-widget]
 ##div[data-dfp-id]
 ##div[data-e2e="advertisement"]
-##div[data-google-av-itpl]
 ##div[data-id-advertdfpconf]
 ##div[data-target="ad"]
 ##div[data-type="_mgwidget"]
@@ -24765,7 +24764,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
 4up.pics,1minx.com,555fap.com,chinese-pics.vip,cnxxx.org,cosplaytele.vip,hentaicovid.vip#%#//scriptlet('prevent-addEventListener', 'click', 'popup')
 4up.pics,1minx.com,555fap.com,chinese-pics.vip,cnxxx.org,cosplaytele.vip,hentaicovid.vip#%#//scriptlet('prevent-window-open')
-4wank.com##.plads
 4wank.com#?#.related-videos > center:contains(Advertisement)
 4wank.com#?#.video-holder > center > :contains(/^Advertisement$/)
 4wank.com#?#.video-holder > center > :has-text(/^Advertisement$/)
@@ -54842,6 +54840,7 @@ genshin.honeyhunterworld.com#@#.a_p
 genshinimpactcalculator.com#@#.adban
 genuineactivator.com##.entry-content center > a[href][onclick]
 geo-fs.com##.geofs-adbanner
+geo.tv##div[style$="min-height: 280px;"]
 geo.tv,jozifm.co.za,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
 geoawesome.com##.single-post__extra-info
 geocanabis.com###sidebar2
@@ -74343,6 +74342,7 @@ qz.com##.js_sticky-second-scroll
 qz.com##.k3mqd
 qz.com##.lg\:block > div[class*="h-"][class*="calc"][class*="350px"][class*="4rem"]
 qz.com##.spotlight-slot
+qz.com##[style="min-height:300px"]
 qz.com##div[class*=":block"]:has(> .ay-ad-slot)
 qz.com##div[class*="my-"]:has(> .ay-ad-slot)
 qz.com##div[class="hidden md:block"]
@@ -78353,7 +78353,6 @@ some.porn###ads-native
 some.porn###ads-native__skeleton
 some.porn##.w-full > div[class]:has(> div[class] > div[data-spot])
 some.porn##div[class]:has(> div > div[data-spot-new^="ntv-"])
-some.porn,xcafe.com##.fluid_html_on_pause_container
 someecards.com##div[class^="BaseAdSlot_adContainer_"]
 somoynews.tv###adslotPop
 somoynews.tv##.parallax-main
@@ -91367,6 +91366,7 @@ zzzyk.com###Tinfo
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||aboveboardcomplicate.com^$all
 ||aboveredirect.top^$popup
+||absentwhack.com^$third-party
 ||absolstats.co.za^$third-party
 ||absoluporn.com/code/script/
 ||abstream.to/fidel.js^
@@ -112186,6 +112186,7 @@ zzzyk.com###Tinfo
 ||seek68.cn/img/*.gif
 ||seekbang.com^$third-party
 ||seekingalpha.com/mone_event
+||seekingalpha.com/mone_v2
 ||seekingalpha.com/xgCxM9By/init.js
 ||seesaa.jp/ot_square.pl?
 ||seesaawiki.jp/img/rainman.gif?
