@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261014051202
-! Last modified: 2026/10/14 05:12:02
-! Blocked Filters: 118857
+! Version: 20261014112323
+! Last modified: 2026/10/14 11:23:23
+! Blocked Filters: 118858
 !
 ###AC_ad
 ###AD_160
@@ -9696,6 +9696,7 @@
 ##.bn_ads
 ##.bnr_ad
 ##.body-ad
+##.body-adblock
 ##.body-ads
 ##.body-top-ads
 ##.bodyAd
@@ -11050,6 +11051,7 @@
 ##.hdrAd
 ##.hdr_ad
 ##.head-ad
+##.head-adblock
 ##.head-ads
 ##.head-banner468
 ##.head-top-ads
@@ -11771,6 +11773,7 @@
 ##.main-container div[id^="z-extra-"]
 ##.main-container ~ div.z-gate-mask
 ##.main-container ~ div[class^="z"][class$="-root"]
+##.main-content > .ad-shell
 ##.main-footer-ad
 ##.main-header-ad
 ##.main-header__ad-wrapper
@@ -14672,7 +14675,6 @@
 ##a[href*=".gaimin.gg/cn"]
 ##a[href*=".holesg.xyz"]
 ##a[href*=".hongguotuiguang."]
-##a[href*=".jmtybc.com"]
 ##a[href*=".labsda.com"] > img[src^="/game/20"]
 ##a[href*=".sadbaguette.com/"]
 ##a[href*=".ssmh"][href*="?u="]
@@ -16716,11 +16718,9 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 .cn/*/o*.js?t=*$domain=12ju.com
 .cn/2022/*/*.txt$third-party
 .cn/2023/*/*.txt$third-party
-.cn/Ao390sW2.js
 .cn/ack?s=*$third-party
 .cn/ads/
 .cn/bid?url=*$third-party
-.cn/cS389.js
 .cn/d/o*.js?t=*
 .cn/e/o*.js?t=*
 .cn/gg/$script,third-party
@@ -21142,7 +21142,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /p/tm.js?
 /p1x1.gif
 /p?zoneId=
-/pa.dajiahao*.top/
 /page-addviews?
 /page-analytics.js
 /page-events/trackclick/*
@@ -25432,7 +25431,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :818/nowscore/
-:866/o.js$script,third-party
 :8686/8888/*.gif$third-party,image
 :88/999pc/
 :88/lighttpd/default/
@@ -38117,6 +38115,7 @@ abmedia.io###block-12
 abmedia.io##.pum
 abmedia.io##a[href^="https://ace.io/"]
 abmedia.io##a[href^="https://www.okx.com/"]
+abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,woniuyulew.com##.widget_media_image
 abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,woniuyulew.com,zhain8.com##.widget_media_image
 abminbuy.com##body > a[rel="nofollow"] > img
 about.com#@##adcontainer1
@@ -74040,6 +74039,7 @@ qq.com###ay-tips-close + h2
 qq.com###barrageBase
 qq.com###bottom-sponsor
 qq.com###comic_ad
+qq.com###coo_qqBrowser
 qq.com###emailLogin > .hd-slider
 qq.com###focus_jordon
 qq.com###fr_ad
@@ -89924,6 +89924,7 @@ zzzyk.com###Tinfo
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||000webhost.com/images/banners/
 ||007ds.com/js/js/
+||007xf.com/html/js/top.
 ||00eeekk.com//html5/activityPage/
 ||01net.com/track/
 ||01u.net/js/tj.js
@@ -92570,6 +92571,7 @@ zzzyk.com###Tinfo
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
 ||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
+||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
 ||alicdn.com^$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 ||alicdn.com^$domain=99re.com
 ||alicdn.com^$domain=pianba.net
@@ -104316,7 +104318,6 @@ zzzyk.com###Tinfo
 ||juno.com/start/javascript.do?message=
 ||junshizhanlue.com^$third-party
 ||juqingw.com/js/tad
-||jusha.com^$third-party
 ||justanswer.com/jatag/
 ||justdial.com/jd-trkr
 ||justfullporn.net/a554739c4f.php
