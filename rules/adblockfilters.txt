@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261018105810
-! Last modified: 2026/10/18 10:58:10
-! Blocked Filters: 118363
+! Version: 20261018203859
+! Last modified: 2026/10/18 20:38:59
+! Blocked Filters: 118367
 !
 ###AC_ad
 ###AD_160
@@ -52674,6 +52674,7 @@ forum.nissanklub.pl##footer .ipsResponsive_inlineBlock > a[target="_blank"] > im
 forum.parenting.pl,forum.abczdrowie.pl#?##ipsLayout_sidebar > .article__side .article__side__stickblock:matches-css(background-image: /^url\(https:\/\/portal\.abczdrowie\.pl\/media\/images\/commb\.png/)
 forum.psnprofiles.com##.nn-player-floating
 forum.ragezone.com###RZX_BELOW_NAV
+forum.ragezone.com##.MentaLBannerUnit
 forum.ragezone.com##.RZBannerUnit
 forum.ragezone.com##.block-body > header.message-attribution + article:has(.samItem > a[rel="sponsored"])
 forum.ragezone.com##.block-body > header.message-attribution:has(> .listInline  > li > a)
@@ -67137,6 +67138,7 @@ mydramalist.com##div[class*="_right_"]:has(> .ad-removal-info)
 mydramalist.com##div[class*="is-desktop-ads-"]
 mydramalist.com##div[class="sticky"][style^="min-height"]
 mydramalist.com##div[class^="htlad-film_box_"]
+mydramalist.com##div[style="min-height: 250px;"]:has(> .ad-removal-info)
 mydramalist.com#?#.app-body > div[class] > .is-desktop > .mdl-gpt-tag:upward(1)
 mydramalist.com#?#.app-body > div[class]:has(> div.is-desktop-ads)
 mydramalist.com#?#div[class^="col"] > div[style^="min-height"]:has(> div.spnsr)
@@ -74219,6 +74221,7 @@ rapeboard.net##div[style="padding:0px 25px 0px 25px"] > center > img
 rapidgatorporn.net##.full-block > center > [href][target="_blank"] > img
 rapidleaks.com,dkoding.in##.sidebar_inner > #custom_html-2
 rapidsave.com##.alert.col-md-offset-2
+rapidsave.com##.alert.col-md-offset-2:has(a[href^="https://docmost.com/"])
 rapnews.pl###sgpb-popup-dialog-main-div-wrapper
 rapnews.pl##.sgpb-popup-overlay
 raportkolejowy.pl##.footbottombar
@@ -108672,6 +108675,7 @@ zzzyk.com###Tinfo
 ||perlmaven.com/img/sticker-you.jpg
 ||permutive.com^$third-party
 ||perplexity.ai/rest/event/analytics
+||perplexity.ai/unifyintent.js
 ||perryvolleyball.com^$popup
 ||persevered.com^$third-party
 ||persianstat.com^$third-party
