@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261024040620
-! Last modified: 2026/10/24 04:06:20
-! Blocked Filters: 118426
+! Version: 20261024111426
+! Last modified: 2026/10/24 11:14:26
+! Blocked Filters: 118428
 !
 ###AC_ad
 ###AD_160
@@ -101635,6 +101635,7 @@ zzzyk.com###Tinfo
 ||hetaruvg.com^$popup
 ||hetlmedia.com/1025.js
 ||heukmsactivator.com^$all
+||hewdasgas.com/assets/js/sfaub.js
 ||hexagon-analytics.com^$third-party
 ||hexun.*/hxpage/index.html
 ||hexun.com*/hx_news/hx_news_finalpage.js
@@ -107667,6 +107668,7 @@ zzzyk.com###Tinfo
 ||offcn.com/offcnewm/
 ||offer-extensions.com^$all
 ||offer-go.com^$third-party
+||offer-link.com/collect-click.php
 ||offer.alibaba.com/cps/*rc=$popup
 ||offer.alibaba.com/cps/*rc=$popup,badfilter
 ||offerforge.com^$third-party
